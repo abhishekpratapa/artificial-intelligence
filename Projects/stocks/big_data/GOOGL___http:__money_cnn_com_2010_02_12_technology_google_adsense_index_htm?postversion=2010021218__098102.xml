@@ -1,0 +1,239 @@
+<text>
+<url>
+http://money.cnn.com/2010/02/12/technology/google_adsense/index.htm?postversion=2010021218</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.1027      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.957      </score>
+<score>
+pos:0.043      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.897      </score>
+<score>
+pos:0.103      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0941      </score>
+<score>
+neg:0.067      </score>
+<score>
+neu:0.933      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.922      </score>
+<score>
+pos:0.078      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.085      </score>
+<score>
+neu:0.811      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.657      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.779      </score>
+<score>
+pos:0.221      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.92      </score>
+<score>
+pos:0.08      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.743      </score>
+<score>
+pos:0.257      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Correction: A previous version of this article incorrectly stated that AdSense is an ad server, and that it uses search history to target ads.
+The referral URL is one of several pieces of information that Google uses to target ads.
+It uses "referral URLs," or information that shows how users arrive at a site, in order to target which ads appear.
+After "a few hours," Google wrote, the query words are no longer treated as part of the sites' content to help deliver ads.
+And if a user starts a new search, the process begins all over again -- AdSense does not add new query words to the referral URL.
+</summary>
+<keywords>
+['weide', 'uses', 'ads', 'referral', 'query', 'users', 'adsense', 'content', 'search', 'hours', 'google', 'history', 'words']
+</keywords>
+<date>
+2010-02-12 00:00:00
+</date>
+</text>

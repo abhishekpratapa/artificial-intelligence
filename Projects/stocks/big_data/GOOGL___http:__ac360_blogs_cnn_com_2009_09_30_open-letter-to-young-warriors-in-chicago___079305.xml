@@ -1,0 +1,359 @@
+<text>
+<url>
+http://ac360.blogs.cnn.com/2009/09/30/open-letter-to-young-warriors-in-chicago/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.9674      </score>
+<score>
+neg:0.475      </score>
+<score>
+neu:0.525      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6705      </score>
+<score>
+neg:0.29      </score>
+<score>
+neu:0.71      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6249      </score>
+<score>
+neg:0.163      </score>
+<score>
+neu:0.837      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7717      </score>
+<score>
+neg:0.34      </score>
+<score>
+neu:0.66      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.784      </score>
+<score>
+neg:0.555      </score>
+<score>
+neu:0.293      </score>
+<score>
+pos:0.152      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0772      </score>
+<score>
+neg:0.326      </score>
+<score>
+neu:0.296      </score>
+<score>
+pos:0.378      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3532      </score>
+<score>
+neg:0.406      </score>
+<score>
+neu:0.371      </score>
+<score>
+pos:0.223      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8016      </score>
+<score>
+neg:0.636      </score>
+<score>
+neu:0.195      </score>
+<score>
+pos:0.169      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.158      </score>
+<score>
+neu:0.765      </score>
+<score>
+pos:0.077      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.248      </score>
+<score>
+neu:0.752      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6429      </score>
+<score>
+neg:0.168      </score>
+<score>
+neu:0.832      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4588      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.6      </score>
+<score>
+pos:0.4      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3291      </score>
+<score>
+neg:0.115      </score>
+<score>
+neu:0.778      </score>
+<score>
+pos:0.106      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.85      </score>
+<score>
+pos:0.15      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.116      </score>
+<score>
+neu:0.884      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0516      </score>
+<score>
+neg:0.233      </score>
+<score>
+neu:0.523      </score>
+<score>
+pos:0.244      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5228      </score>
+<score>
+neg:0.268      </score>
+<score>
+neu:0.589      </score>
+<score>
+pos:0.144      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5319      </score>
+<score>
+neg:0.3      </score>
+<score>
+neu:0.7      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5411      </score>
+<score>
+neg:0.179      </score>
+<score>
+neu:0.821      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6369      </score>
+<score>
+neg:0.318      </score>
+<score>
+neu:0.682      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.099      </score>
+<score>
+neu:0.812      </score>
+<score>
+pos:0.089      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5562      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.358      </score>
+<score>
+pos:0.642      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8591      </score>
+<score>
+neg:0.76      </score>
+<score>
+neu:0.24      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Look who's watching us young warriors, look who's throwing us in jail constantly, look at the ignorance in the world.
+Dear Young Warriors fighting the wrong war!
+NasMusicianDear Young Warriors fighting the wrong wars!
+I'm with you young warriors.
+Young warriors.... We are WASTING more and more time.
+</summary>
+<keywords>
+['world', 'letter', 'nas', '360', 'wrong', 'im', 'fighting', 'cooper', 'open', 'n', 'anderson', 'warriors', 'look', 'young', 'war', 'chicago']
+</keywords>
+<date>
+2009-09-30 00:00:00
+</date>
+</text>

@@ -1,0 +1,119 @@
+<text>
+<url>
+http://www.cnn.com/2010/TECH/03/30/google.china.block/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.8074      </score>
+<score>
+neg:0.223      </score>
+<score>
+neu:0.777      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.9      </score>
+<score>
+pos:0.1      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.146      </score>
+<score>
+neu:0.854      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.116      </score>
+<score>
+neu:0.884      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1779      </score>
+<score>
+neg:0.109      </score>
+<score>
+neu:0.891      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8442      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.815      </score>
+<score>
+pos:0.185      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.077      </score>
+<score>
+neu:0.851      </score>
+<score>
+pos:0.072      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+China has long blocked particular searches on Google.com, allowing Internet users to conduct the search but preventing them from clicking through to the result.
+(CNET) -- China appeared to up the ante Tuesday in its dispute over Google's refusal to censor Chinese-language search results, blocking mainland Chinese Internet users from using Google search for any query.
+Several reports note that Chinese Internet users inside the Great Firewall of China are now unable to do any kind of Google searches at present, including banal searches that have nothing to do with any politically sensitive topics.
+Google did not immediately respond to a request for comment, and it has yet to update its China status dashboard to reflect the block.
+However, the Guardian reported that searches could be conducted via browser toolbars, implying the block could be inadvertent.
+</summary>
+<keywords>
+['internet', 'users', 'cnet', 'mainland', 'searches', 'laws', 'search', 'china', 'googles', 'google', 'blocked']
+</keywords>
+<date>
+None
+</date>
+</text>

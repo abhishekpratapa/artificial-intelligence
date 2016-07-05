@@ -1,0 +1,279 @@
+<text>
+<url>
+http://www.cnn.com/2010/TECH/05/14/google.job/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.8316      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.738      </score>
+<score>
+pos:0.262      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8689      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.546      </score>
+<score>
+pos:0.454      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.818      </score>
+<score>
+pos:0.182      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5402      </score>
+<score>
+neg:0.078      </score>
+<score>
+neu:0.751      </score>
+<score>
+pos:0.171      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.088      </score>
+<score>
+neu:0.677      </score>
+<score>
+pos:0.235      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6461      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.826      </score>
+<score>
+pos:0.174      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1511      </score>
+<score>
+neg:0.242      </score>
+<score>
+neu:0.758      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.107      </score>
+<score>
+neu:0.73      </score>
+<score>
+pos:0.163      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.807      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.783      </score>
+<score>
+pos:0.217      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7906      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.784      </score>
+<score>
+pos:0.216      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.752      </score>
+<score>
+pos:0.248      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5927      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.845      </score>
+<score>
+pos:0.155      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6908      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.551      </score>
+<score>
+pos:0.449      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7184      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.76      </score>
+<score>
+pos:0.24      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.9      </score>
+<score>
+pos:0.1      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.828      </score>
+<score>
+pos:0.172      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.925      </score>
+<score>
+pos:0.075      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4005      </score>
+<score>
+neg:0.402      </score>
+<score>
+neu:0.598      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2755      </score>
+<score>
+neg:0.26      </score>
+<score>
+neu:0.74      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Whenever someone ran a search for one of the creative directors' names, the following message appeared at the top of the page: "Hey, [creative director's name]: Goooogling [sic] yourself is a lot of fun.
+While Googling his favorite creative directors last summer, Brownstein noticed that there were no sponsored links attached to their names.
+Over the next couple of months, Brownstein received calls from all but one of the creative directors whose names he had purchased.
+I wanted to invade that secret, egotistical moment when [the creative directors I admired] were most vulnerable."
+Since Brownstein Googles himself "embarassingly frequently," he assumed that the creative directors did so as well, and thus he decided to purchase their names on Google AdWords.
+</summary>
+<keywords>
+['wanted', 'work', 'directors', 'man', 'google', 'brownsteins', 'campaign', 'received', 'brownstein', 'creative', 'job', 'lands', 'yr', 'names']
+</keywords>
+<date>
+None
+</date>
+</text>

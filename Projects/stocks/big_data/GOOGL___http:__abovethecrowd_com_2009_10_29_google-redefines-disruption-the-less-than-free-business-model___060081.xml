@@ -1,0 +1,929 @@
+<text>
+<url>
+http://abovethecrowd.com/2009/10/29/google-redefines-disruption-the-less-than-free-business-model/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.139      </score>
+<score>
+neu:0.722      </score>
+<score>
+pos:0.139      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.765      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.231      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3197      </score>
+<score>
+neg:0.135      </score>
+<score>
+neu:0.779      </score>
+<score>
+pos:0.086      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.743      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.84      </score>
+<score>
+pos:0.16      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7003      </score>
+<score>
+neg:0.088      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.197      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4588      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.7      </score>
+<score>
+pos:0.3      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.935      </score>
+<score>
+pos:0.065      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.83      </score>
+<score>
+pos:0.17      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.837      </score>
+<score>
+pos:0.163      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2263      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.863      </score>
+<score>
+pos:0.137      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5574      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.787      </score>
+<score>
+pos:0.213      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.896      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.732      </score>
+<score>
+pos:0.268      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4767      </score>
+<score>
+neg:0.177      </score>
+<score>
+neu:0.823      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8384      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.72      </score>
+<score>
+pos:0.28      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5647      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.775      </score>
+<score>
+pos:0.225      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.923      </score>
+<score>
+pos:0.077      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.723      </score>
+<score>
+pos:0.277      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.877      </score>
+<score>
+pos:0.123      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7096      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.731      </score>
+<score>
+pos:0.269      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6124      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.737      </score>
+<score>
+pos:0.263      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.784      </score>
+<score>
+pos:0.216      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7845      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.723      </score>
+<score>
+pos:0.277      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.081      </score>
+<score>
+neu:0.919      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2846      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.898      </score>
+<score>
+pos:0.102      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.239      </score>
+<score>
+neu:0.761      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5994      </score>
+<score>
+neg:0.182      </score>
+<score>
+neu:0.818      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.091      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5994      </score>
+<score>
+neg:0.328      </score>
+<score>
+neu:0.672      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.158      </score>
+<score>
+neu:0.633      </score>
+<score>
+pos:0.209      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.902      </score>
+<score>
+pos:0.098      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.68      </score>
+<score>
+pos:0.32      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.034      </score>
+<score>
+neu:0.882      </score>
+<score>
+pos:0.084      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3804      </score>
+<score>
+neg:0.245      </score>
+<score>
+neu:0.755      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.075      </score>
+<score>
+neu:0.754      </score>
+<score>
+pos:0.17      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.104      </score>
+<score>
+neu:0.732      </score>
+<score>
+pos:0.165      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7719      </score>
+<score>
+neg:0.251      </score>
+<score>
+neu:0.749      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.137      </score>
+<score>
+neu:0.863      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.128      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8442      </score>
+<score>
+neg:0.344      </score>
+<score>
+neu:0.596      </score>
+<score>
+pos:0.06      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0951      </score>
+<score>
+neg:0.215      </score>
+<score>
+neu:0.785      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.802      </score>
+<score>
+pos:0.198      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.162      </score>
+<score>
+neu:0.586      </score>
+<score>
+pos:0.252      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7579      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.649      </score>
+<score>
+pos:0.351      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.816      </score>
+<score>
+pos:0.184      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.137      </score>
+<score>
+neu:0.621      </score>
+<score>
+pos:0.242      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.063      </score>
+<score>
+neu:0.852      </score>
+<score>
+pos:0.085      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4939      </score>
+<score>
+neg:0.098      </score>
+<score>
+neu:0.859      </score>
+<score>
+pos:0.044      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.943      </score>
+<score>
+pos:0.057      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6124      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.891      </score>
+<score>
+pos:0.109      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1901      </score>
+<score>
+neg:0.149      </score>
+<score>
+neu:0.851      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.123      </score>
+<score>
+neu:0.877      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.783      </score>
+<score>
+pos:0.217      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7184      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.4      </score>
+<score>
+pos:0.6      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.886      </score>
+<score>
+pos:0.114      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2235      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.827      </score>
+<score>
+pos:0.173      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.847      </score>
+<score>
+pos:0.153      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0258      </score>
+<score>
+neg:0.094      </score>
+<score>
+neu:0.815      </score>
+<score>
+pos:0.09      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8074      </score>
+<score>
+neg:0.063      </score>
+<score>
+neu:0.498      </score>
+<score>
+pos:0.439      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7713      </score>
+<score>
+neg:0.191      </score>
+<score>
+neu:0.809      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.252      </score>
+<score>
+neu:0.644      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.108      </score>
+<score>
+neu:0.892      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.122      </score>
+<score>
+neu:0.878      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7003      </score>
+<score>
+neg:0.188      </score>
+<score>
+neu:0.772      </score>
+<score>
+pos:0.04      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.707      </score>
+<score>
+pos:0.293      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.905      </score>
+<score>
+pos:0.095      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7003      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.707      </score>
+<score>
+pos:0.293      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.656      </score>
+<score>
+pos:0.344      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5553      </score>
+<score>
+neg:0.078      </score>
+<score>
+neu:0.709      </score>
+<score>
+pos:0.212      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7485      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.524      </score>
+<score>
+pos:0.476      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4588      </score>
+<score>
+neg:0.143      </score>
+<score>
+neu:0.584      </score>
+<score>
+pos:0.273      </score>
+</wrapper_score>
+</total_score>
+<summary>
+And there is no reason to believe that the “less than free” business model will not be used here as well.
+I like to call this the “less than free” business model.
+With regard to Android, Google will lack the user interface or embedded software expertise necessary and will deliver a subpar product.
+Anyone could get map data (there are many free sources), but turn-by-turn data was remarkably expensive to build and maintain.
+Introducing the “Less Than Free” Business ModelGoogle’s brilliance doesn’t stop there.
+</summary>
+<keywords>
+['android', 'redefines', 'business', 'os', 'turnbyturn', 'free', 'mobile', 'gps', 'data', 'disruption', 'model', 'google', 'market']
+</keywords>
+<date>
+2009-10-29 00:00:00
+</date>
+</text>

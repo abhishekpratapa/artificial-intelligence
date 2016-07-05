@@ -1,0 +1,509 @@
+<text>
+<url>
+http://www.cnn.com/2010/TECH/03/23/google.china/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.178      </score>
+<score>
+neu:0.732      </score>
+<score>
+pos:0.089      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.137      </score>
+<score>
+neu:0.863      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.135      </score>
+<score>
+neu:0.865      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.101      </score>
+<score>
+neu:0.899      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8016      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.527      </score>
+<score>
+pos:0.473      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.128      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.733      </score>
+<score>
+pos:0.267      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5688      </score>
+<score>
+neg:0.082      </score>
+<score>
+neu:0.705      </score>
+<score>
+pos:0.214      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.13      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.088      </score>
+<score>
+neu:0.912      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6908      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.778      </score>
+<score>
+pos:0.222      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.843      </score>
+<score>
+pos:0.157      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.13      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.142      </score>
+<score>
+neu:0.806      </score>
+<score>
+pos:0.052      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2057      </score>
+<score>
+neg:0.057      </score>
+<score>
+neu:0.943      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4588      </score>
+<score>
+neg:0.099      </score>
+<score>
+neu:0.708      </score>
+<score>
+pos:0.193      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.727      </score>
+<score>
+pos:0.273      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.099      </score>
+<score>
+neu:0.735      </score>
+<score>
+pos:0.165      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.071      </score>
+<score>
+neu:0.929      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7783      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.57      </score>
+<score>
+pos:0.43      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4391      </score>
+<score>
+neg:0.113      </score>
+<score>
+neu:0.734      </score>
+<score>
+pos:0.153      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7003      </score>
+<score>
+neg:0.206      </score>
+<score>
+neu:0.722      </score>
+<score>
+pos:0.072      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3167      </score>
+<score>
+neg:0.208      </score>
+<score>
+neu:0.653      </score>
+<score>
+pos:0.139      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.524      </score>
+<score>
+neu:0.476      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6249      </score>
+<score>
+neg:0.116      </score>
+<score>
+neu:0.884      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7351      </score>
+<score>
+neg:0.275      </score>
+<score>
+neu:0.725      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.107      </score>
+<score>
+neu:0.893      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.097      </score>
+<score>
+neu:0.661      </score>
+<score>
+pos:0.242      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.9313      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.689      </score>
+<score>
+pos:0.311      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.094      </score>
+<score>
+neu:0.906      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0516      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.93      </score>
+<score>
+pos:0.07      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.079      </score>
+<score>
+neu:0.921      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7351      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.753      </score>
+<score>
+pos:0.247      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5574      </score>
+<score>
+neg:0.129      </score>
+<score>
+neu:0.871      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.617      </score>
+<score>
+pos:0.383      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4767      </score>
+<score>
+neg:0.22      </score>
+<score>
+neu:0.78      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Beijing, China (CNN) -- There's no reason China's spat with Internet search giant Google should hurt relations with the United States, China's foreign ministry said Tuesday.
+It's not just China -- Google censors results elsewhere, tooAdvocates of Internet freedoms cheered Google's move Monday.
+Google hopes the move "will meaningfully increase access to information for people in China," Drummond wrote.
+Baidu.com, a government-friendly Chinese search engine, dominates mainland China with about 77 percent of users, the survey said.
+"It is not the image of China that has been undermined, rather it is that of Google."
+</summary>
+<keywords>
+['googles', 'access', 'information', 'internet', 'company', 'users', 'search', 'chinese', 'wont', 'google', 'relations', 'spat', 'china', 'affect']
+</keywords>
+<date>
+None
+</date>
+</text>

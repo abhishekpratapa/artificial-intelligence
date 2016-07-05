@@ -1,0 +1,189 @@
+<text>
+<url>
+http://money.cnn.com/2014/04/03/investing/google-stock-split/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.4588      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.692      </score>
+<score>
+pos:0.308      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2023      </score>
+<score>
+neg:0.13      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6124      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.688      </score>
+<score>
+pos:0.312      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.845      </score>
+<score>
+pos:0.155      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.128      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1531      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.897      </score>
+<score>
+pos:0.103      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.526      </score>
+<score>
+pos:0.474      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.916      </score>
+<score>
+pos:0.084      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.121      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.761      </score>
+<score>
+pos:0.239      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.113      </score>
+<score>
+neu:0.821      </score>
+<score>
+pos:0.067      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7003      </score>
+<score>
+neg:0.288      </score>
+<score>
+neu:0.609      </score>
+<score>
+pos:0.103      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.732      </score>
+<score>
+pos:0.268      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.82      </score>
+<score>
+pos:0.18      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.732      </score>
+<score>
+pos:0.268      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1779      </score>
+<score>
+neg:0.064      </score>
+<score>
+neu:0.936      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.078      </score>
+<score>
+neu:0.922      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+So far, investors seem to be favoring one share class over the other.
+Google's class A shares, which trade under the ticker "GOOGL (GOOAV)," were trading at more than $587.
+The internet giant's controversial stock split occurred last night with trading commencing today.
+The Class C shares, which trade under the old ticker symbol "GOOG (GOOG)," do not give investors the right to vote at Google's annual shareholder meeting.
+That could be why the price is lower than the Class A stock, which does have voting rights.
+</summary>
+<keywords>
+['index', 'shares', 'googles', 'favor', 'voting', 'split', 'trade', 'share', 'investors', 'class', 'trading', 'shareholders', 'stock']
+</keywords>
+<date>
+2014-04-03 00:00:00
+</date>
+</text>

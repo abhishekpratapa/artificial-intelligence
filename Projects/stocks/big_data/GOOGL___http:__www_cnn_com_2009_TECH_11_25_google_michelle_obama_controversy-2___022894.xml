@@ -1,0 +1,329 @@
+<text>
+<url>
+http://www.cnn.com/2009/TECH/11/25/google.michelle.obama.controversy-2/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.93      </score>
+<score>
+pos:0.07      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.136      </score>
+<score>
+neu:0.864      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0762      </score>
+<score>
+neg:0.139      </score>
+<score>
+neu:0.861      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.293      </score>
+<score>
+neu:0.707      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.167      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.121      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.784      </score>
+<score>
+pos:0.216      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.93      </score>
+<score>
+pos:0.07      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5709      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.701      </score>
+<score>
+pos:0.299      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.109      </score>
+<score>
+neu:0.891      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.828      </score>
+<score>
+pos:0.172      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.125      </score>
+<score>
+neu:0.875      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.172      </score>
+<score>
+neu:0.687      </score>
+<score>
+pos:0.142      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.095      </score>
+<score>
+neu:0.905      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6124      </score>
+<score>
+neg:0.205      </score>
+<score>
+neu:0.702      </score>
+<score>
+pos:0.093      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.443      </score>
+<score>
+neg:0.114      </score>
+<score>
+neu:0.621      </score>
+<score>
+pos:0.265      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.15      </score>
+<score>
+neu:0.85      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7466      </score>
+<score>
+neg:0.297      </score>
+<score>
+neu:0.703      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.85      </score>
+<score>
+pos:0.15      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8555      </score>
+<score>
+neg:0.511      </score>
+<score>
+neu:0.489      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.18      </score>
+<score>
+neu:0.82      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+On Wednesday morning, the racially offensive image appeared to have been removed from any Google Image searches for "Michelle Obama."
+When a Google image search brought up the photo, an apologetic Google ad occasionally appeared above it.
+The ad redirected users to a statement from Google which read, "Sometimes Google search results from the Internet can include disturbing content, even from innocuous queries.
+The California-based company then explained that search results rely on computer algorithms that take into account thousands of factors.
+"Accordingly, we do not remove a page from our search results simply because its content is unpopular or because we receive complaints concerning it."
+</summary>
+<keywords>
+['search', 'apologizes', 'users', 'image', 'obama', 'way', 'user', 'web', 'michelle', 'results', 'google', 'twitter', 'posted']
+</keywords>
+<date>
+None
+</date>
+</text>

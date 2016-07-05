@@ -1,0 +1,489 @@
+<text>
+<url>
+http://money.cnn.com/2010/11/10/technology/google_brain_drain/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.6652      </score>
+<score>
+neg:0.111      </score>
+<score>
+neu:0.652      </score>
+<score>
+pos:0.237      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.128      </score>
+<score>
+neu:0.69      </score>
+<score>
+pos:0.183      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6249      </score>
+<score>
+neg:0.338      </score>
+<score>
+neu:0.662      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5423      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.794      </score>
+<score>
+pos:0.206      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.072      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.056      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7096      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.723      </score>
+<score>
+pos:0.277      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.148      </score>
+<score>
+neu:0.604      </score>
+<score>
+pos:0.248      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.085      </score>
+<score>
+neu:0.778      </score>
+<score>
+pos:0.137      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.104      </score>
+<score>
+neu:0.896      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1585      </score>
+<score>
+neg:0.208      </score>
+<score>
+neu:0.66      </score>
+<score>
+pos:0.132      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.135      </score>
+<score>
+neu:0.865      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6705      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.787      </score>
+<score>
+pos:0.213      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.394      </score>
+<score>
+neu:0.606      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.087      </score>
+<score>
+neu:0.913      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5267      </score>
+<score>
+neg:0.152      </score>
+<score>
+neu:0.848      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.664      </score>
+<score>
+neg:0.153      </score>
+<score>
+neu:0.847      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2584      </score>
+<score>
+neg:0.117      </score>
+<score>
+neu:0.668      </score>
+<score>
+pos:0.215      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6249      </score>
+<score>
+neg:0.254      </score>
+<score>
+neu:0.746      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.21      </score>
+<score>
+neu:0.701      </score>
+<score>
+pos:0.089      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.8      </score>
+<score>
+pos:0.2      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.885      </score>
+<score>
+pos:0.115      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7506      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.598      </score>
+<score>
+pos:0.402      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6705      </score>
+<score>
+neg:0.186      </score>
+<score>
+neu:0.814      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.315      </score>
+<score>
+neg:0.166      </score>
+<score>
+neu:0.719      </score>
+<score>
+pos:0.115      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.698      </score>
+<score>
+pos:0.302      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7269      </score>
+<score>
+neg:0.321      </score>
+<score>
+neu:0.679      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7783      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.659      </score>
+<score>
+pos:0.341      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.836      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.574      </score>
+<score>
+pos:0.426      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.894      </score>
+<score>
+pos:0.106      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.773      </score>
+<score>
+pos:0.227      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8271      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.778      </score>
+<score>
+pos:0.222      </score>
+</wrapper_score>
+</total_score>
+<summary>
+At Apple (AAPL, Fortune 500), employees fight to get their ideas passed through many layers before they become products, with refinement and criticism at each step.
+"While we don't typically comment on internal matters, we do believe that competitive compensation plans are important to the future of the company," Google's spokesman said in a prepared statement.
+Google's fight to keep its top mindsNEW YORK (CNNMoney.com) -- Google is known to hire the best and the brightest Silicon Valley has to offer, but hanging onto that talent can be a struggle.
+Microsoft and Yahoo (YHOO, Fortune 500) have also had heavy defections to Facebook, according to LinkedIn data.
+When Rasmussen left, he told the Sydney Morning Herald that Google's growing size hindered its employees' ability to get things accomplished.
+</summary>
+<keywords>
+['googles', 'company', 'fortune', 'valley', 'minds', '500', 'fight', 'google', 'silicon', 'say', 'staff', 'employees']
+</keywords>
+<date>
+2010-11-10 00:00:00
+</date>
+</text>

@@ -1,0 +1,569 @@
+<text>
+<url>
+http://thecnnfreedomproject.blogs.cnn.com/2011/03/04/modern-day-slavery-a-problem-that-cant-be-ignored/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.922      </score>
+<score>
+pos:0.078      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.17      </score>
+<score>
+neu:0.742      </score>
+<score>
+pos:0.088      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.58      </score>
+<score>
+pos:0.42      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8047      </score>
+<score>
+neg:0.043      </score>
+<score>
+neu:0.721      </score>
+<score>
+pos:0.236      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6124      </score>
+<score>
+neg:0.25      </score>
+<score>
+neu:0.75      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5709      </score>
+<score>
+neg:0.425      </score>
+<score>
+neu:0.575      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.729      </score>
+<score>
+pos:0.271      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7717      </score>
+<score>
+neg:0.324      </score>
+<score>
+neu:0.676      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2944      </score>
+<score>
+neg:0.268      </score>
+<score>
+neu:0.732      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7351      </score>
+<score>
+neg:0.07      </score>
+<score>
+neu:0.63      </score>
+<score>
+pos:0.3      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6486      </score>
+<score>
+neg:0.39      </score>
+<score>
+neu:0.386      </score>
+<score>
+pos:0.224      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4939      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.741      </score>
+<score>
+pos:0.259      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1531      </score>
+<score>
+neg:0.109      </score>
+<score>
+neu:0.718      </score>
+<score>
+pos:0.173      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.121      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3804      </score>
+<score>
+neg:0.216      </score>
+<score>
+neu:0.643      </score>
+<score>
+pos:0.141      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2568      </score>
+<score>
+neg:0.319      </score>
+<score>
+neu:0.456      </score>
+<score>
+pos:0.225      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1027      </score>
+<score>
+neg:0.136      </score>
+<score>
+neu:0.707      </score>
+<score>
+pos:0.158      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.205      </score>
+<score>
+neu:0.709      </score>
+<score>
+pos:0.087      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7992      </score>
+<score>
+neg:0.505      </score>
+<score>
+neu:0.495      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.743      </score>
+<score>
+neg:0.364      </score>
+<score>
+neu:0.636      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7783      </score>
+<score>
+neg:0.317      </score>
+<score>
+neu:0.683      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.154      </score>
+<score>
+neu:0.728      </score>
+<score>
+pos:0.119      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.137      </score>
+<score>
+neu:0.863      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.876      </score>
+<score>
+pos:0.124      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0108      </score>
+<score>
+neg:0.218      </score>
+<score>
+neu:0.568      </score>
+<score>
+pos:0.214      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.161      </score>
+<score>
+neu:0.839      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.802      </score>
+<score>
+pos:0.198      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3252      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.873      </score>
+<score>
+pos:0.127      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6486      </score>
+<score>
+neg:0.101      </score>
+<score>
+neu:0.899      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1779      </score>
+<score>
+neg:0.059      </score>
+<score>
+neu:0.941      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.775      </score>
+<score>
+pos:0.225      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1027      </score>
+<score>
+neg:0.067      </score>
+<score>
+neu:0.854      </score>
+<score>
+pos:0.079      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8519      </score>
+<score>
+neg:0.252      </score>
+<score>
+neu:0.705      </score>
+<score>
+pos:0.043      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.794      </score>
+<score>
+pos:0.206      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6908      </score>
+<score>
+neg:0.251      </score>
+<score>
+neu:0.749      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8779      </score>
+<score>
+neg:0.321      </score>
+<score>
+neu:0.617      </score>
+<score>
+pos:0.062      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4939      </score>
+<score>
+neg:0.412      </score>
+<score>
+neu:0.588      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8934      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.428      </score>
+<score>
+pos:0.572      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.295      </score>
+<score>
+neu:0.561      </score>
+<score>
+pos:0.144      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.231      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.802      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.407      </score>
+<score>
+pos:0.593      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7351      </score>
+<score>
+neg:0.111      </score>
+<score>
+neu:0.481      </score>
+<score>
+pos:0.409      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8836      </score>
+<score>
+neg:0.095      </score>
+<score>
+neu:0.592      </score>
+<score>
+pos:0.313      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.765      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.78      </score>
+<score>
+pos:0.22      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.86      </score>
+<score>
+pos:0.14      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6249      </score>
+<score>
+neg:0.389      </score>
+<score>
+neu:0.611      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+The United Nations estimates the total market value of human trafficking at 32 billion U.S. dollars.
+U.S. Secretary of State Hillary Clinton says human trafficking crosses cultures and continents.
+﻿Organizations like Anti-Slavery International, Free the Slaves, International Justice Mission, ECPAT, Not For Sale and Polaris Project have fearless team members at the frontlines, risking their lives in lawless lands, to help those most vulnerable.
+Because human trafficking is a shameful trade that must be stopped.
+CNN will be proud to work with many of them as we put our resources behind this project throughout 2011.
+</summary>
+<keywords>
+['freedom', 'trafficking', 'girls', 'slaves', 'human', 'cnn', 'stop', 'ignored', 'return', 'problem', 'cant', 'international', 'countries', 'modernday', 'slavery', 'ending', 'project', 'value', 'trade']
+</keywords>
+<date>
+2011-03-04 00:00:00
+</date>
+</text>

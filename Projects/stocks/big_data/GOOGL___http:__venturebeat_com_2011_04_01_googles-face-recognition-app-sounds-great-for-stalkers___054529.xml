@@ -1,0 +1,279 @@
+<text>
+<url>
+http://venturebeat.com/2011/04/01/googles-face-recognition-app-sounds-great-for-stalkers/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.743      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.656      </score>
+<score>
+pos:0.344      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1531      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.918      </score>
+<score>
+pos:0.082      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.926      </score>
+<score>
+pos:0.074      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7964      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.823      </score>
+<score>
+pos:0.177      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.882      </score>
+<score>
+pos:0.118      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.867      </score>
+<score>
+pos:0.133      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.887      </score>
+<score>
+pos:0.113      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2023      </score>
+<score>
+neg:0.062      </score>
+<score>
+neu:0.938      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.301      </score>
+<score>
+neu:0.548      </score>
+<score>
+pos:0.151      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.169      </score>
+<score>
+neu:0.784      </score>
+<score>
+pos:0.047      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.896      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.13      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.342      </score>
+<score>
+neu:0.38      </score>
+<score>
+pos:0.278      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1779      </score>
+<score>
+neg:0.062      </score>
+<score>
+neu:0.844      </score>
+<score>
+pos:0.093      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4588      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.286      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.435      </score>
+<score>
+pos:0.565      </score>
+</wrapper_score>
+</total_score>
+<summary>
+The object recognition technology led to Goggles, while the face-recognition technology has been incorporated into Picasa, Google’s photo-sharing service.
+The latest example is Google’s upcoming mobile app that will identify people’s faces in order to access their personal information.
+Google also acquired another image recognition company called Like.com in 2009.
+“We recognize that Google has to be extra careful when it comes to these [privacy] issues,” Neven told CNN.
+The company has not fully described what it intends to do with the app or when it will introduce it.
+</summary>
+<keywords>
+['image', 'goggles', 'great', 'faces', 'company', 'privacy', 'sounds', 'facerecognition', 'technology', 'stalkers', 'app', 'recognition', 'neven', 'identify', 'googles', 'google']
+</keywords>
+<date>
+2011-04-01 00:00:00
+</date>
+</text>

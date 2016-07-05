@@ -1,0 +1,759 @@
+<text>
+<url>
+http://thecnnfreedomproject.blogs.cnn.com/2011/03/30/sex-trafficking-countries-take-different-approaches-to-same-problem/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.126      </score>
+<score>
+neu:0.874      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.826      </score>
+<score>
+pos:0.174      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.082      </score>
+<score>
+neu:0.853      </score>
+<score>
+pos:0.065      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.13      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.168      </score>
+<score>
+neu:0.721      </score>
+<score>
+pos:0.111      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4449      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.631      </score>
+<score>
+pos:0.369      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5574      </score>
+<score>
+neg:0.375      </score>
+<score>
+neu:0.625      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.128      </score>
+<score>
+neu:0.809      </score>
+<score>
+pos:0.064      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6908      </score>
+<score>
+neg:0.237      </score>
+<score>
+neu:0.711      </score>
+<score>
+pos:0.051      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6786      </score>
+<score>
+neg:0.482      </score>
+<score>
+neu:0.518      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6908      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.695      </score>
+<score>
+pos:0.305      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5423      </score>
+<score>
+neg:0.241      </score>
+<score>
+neu:0.759      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5267      </score>
+<score>
+neg:0.139      </score>
+<score>
+neu:0.861      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5267      </score>
+<score>
+neg:0.327      </score>
+<score>
+neu:0.673      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7077      </score>
+<score>
+neg:0.055      </score>
+<score>
+neu:0.708      </score>
+<score>
+pos:0.236      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.082      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.148      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.124      </score>
+<score>
+neu:0.876      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.152      </score>
+<score>
+neu:0.848      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.146      </score>
+<score>
+neu:0.648      </score>
+<score>
+pos:0.206      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0449      </score>
+<score>
+neg:0.179      </score>
+<score>
+neu:0.676      </score>
+<score>
+pos:0.145      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.13      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8847      </score>
+<score>
+neg:0.22      </score>
+<score>
+neu:0.742      </score>
+<score>
+pos:0.038      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.798      </score>
+<score>
+pos:0.202      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4767      </score>
+<score>
+neg:0.199      </score>
+<score>
+neu:0.718      </score>
+<score>
+pos:0.083      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2023      </score>
+<score>
+neg:0.123      </score>
+<score>
+neu:0.877      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5      </score>
+<score>
+neg:0.086      </score>
+<score>
+neu:0.671      </score>
+<score>
+pos:0.244      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.11      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.057      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5574      </score>
+<score>
+neg:0.135      </score>
+<score>
+neu:0.865      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0258      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.954      </score>
+<score>
+pos:0.046      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.083      </score>
+<score>
+neu:0.78      </score>
+<score>
+pos:0.137      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.076      </score>
+<score>
+neu:0.924      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4939      </score>
+<score>
+neg:0.12      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.047      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1531      </score>
+<score>
+neg:0.126      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.159      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4939      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.286      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.084      </score>
+<score>
+neu:0.8      </score>
+<score>
+pos:0.116      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6124      </score>
+<score>
+neg:0.208      </score>
+<score>
+neu:0.792      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6908      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.794      </score>
+<score>
+pos:0.206      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.209      </score>
+<score>
+neu:0.791      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.209      </score>
+<score>
+neu:0.791      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7485      </score>
+<score>
+neg:0.271      </score>
+<score>
+neu:0.644      </score>
+<score>
+pos:0.085      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.25      </score>
+<score>
+neg:0.165      </score>
+<score>
+neu:0.732      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6908      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.826      </score>
+<score>
+pos:0.174      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.878      </score>
+<score>
+pos:0.122      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6792      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.798      </score>
+<score>
+pos:0.202      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2924      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.846      </score>
+<score>
+pos:0.154      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8126      </score>
+<score>
+neg:0.261      </score>
+<score>
+neu:0.739      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.674      </score>
+<score>
+pos:0.326      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Denmark's National Centre Against Trafficking coordinates police and social services to effectively identify trafficking victims.
+That stark difference may explain why Sweden is being hailed as a model of how to combat sex trafficking, while Denmark has been called the "Brothel of Scandinavia."
+But the law had an interesting knock-on effect, decreasing demand for prostitution and thereby sex trafficking.
+But trafficking still exists and women still sell sex in Sweden.
+says Beatrice Ask, Sweden's minister of justice, "because you can't fight this organized criminality, which is often behind prostitution and trafficking for sexual purposes.
+</summary>
+<keywords>
+['sex', 'prostitution', 'trafficking', 'slavery', 'freedom', 'pimps', 'law', 'prostitutes', 'denmark', 'sweden', 'women', 'ending', 'modernday', 'victims', 'project', 'illegal', 'vs']
+</keywords>
+<date>
+2011-03-30 00:00:00
+</date>
+</text>

@@ -1,0 +1,699 @@
+<text>
+<url>
+http://venturebeat.com/2011/04/04/ten-challenges-facing-googles-new-ceo-larry-page/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.624      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.823      </score>
+<score>
+pos:0.177      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.778      </score>
+<score>
+pos:0.222      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1531      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.88      </score>
+<score>
+pos:0.12      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7841      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.808      </score>
+<score>
+pos:0.192      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.798      </score>
+<score>
+pos:0.202      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0772      </score>
+<score>
+neg:0.084      </score>
+<score>
+neu:0.841      </score>
+<score>
+pos:0.075      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4939      </score>
+<score>
+neg:0.375      </score>
+<score>
+neu:0.625      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1027      </score>
+<score>
+neg:0.085      </score>
+<score>
+neu:0.814      </score>
+<score>
+pos:0.101      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0644      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.961      </score>
+<score>
+pos:0.039      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7269      </score>
+<score>
+neg:0.152      </score>
+<score>
+neu:0.848      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.724      </score>
+<score>
+pos:0.276      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.206      </score>
+<score>
+neu:0.794      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5859      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.128      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.727      </score>
+<score>
+pos:0.273      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.159      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.072      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4101      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.814      </score>
+<score>
+pos:0.186      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5423      </score>
+<score>
+neg:0.089      </score>
+<score>
+neu:0.657      </score>
+<score>
+pos:0.254      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.729      </score>
+<score>
+pos:0.271      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5574      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.805      </score>
+<score>
+pos:0.195      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.734      </score>
+<score>
+pos:0.266      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.743      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.717      </score>
+<score>
+pos:0.283      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.719      </score>
+<score>
+pos:0.281      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.828      </score>
+<score>
+pos:0.172      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.752      </score>
+<score>
+pos:0.248      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.08      </score>
+<score>
+neu:0.895      </score>
+<score>
+pos:0.026      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.884      </score>
+<score>
+pos:0.116      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.654      </score>
+<score>
+pos:0.346      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7906      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.222      </score>
+<score>
+pos:0.778      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.22      </score>
+<score>
+neu:0.621      </score>
+<score>
+pos:0.158      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7096      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.734      </score>
+<score>
+pos:0.266      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.9041      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.534      </score>
+<score>
+pos:0.466      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.423      </score>
+<score>
+neu:0.577      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5574      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.739      </score>
+<score>
+pos:0.261      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.859      </score>
+<score>
+pos:0.141      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.734      </score>
+<score>
+pos:0.266      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.195      </score>
+<score>
+neu:0.805      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.903      </score>
+<score>
+pos:0.097      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.423      </score>
+<score>
+neu:0.577      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6486      </score>
+<score>
+neg:0.099      </score>
+<score>
+neu:0.496      </score>
+<score>
+pos:0.404      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.855      </score>
+<score>
+pos:0.145      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.68      </score>
+<score>
+pos:0.32      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7964      </score>
+<score>
+neg:0.403      </score>
+<score>
+neu:0.597      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3875      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.774      </score>
+<score>
+pos:0.226      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.182      </score>
+<score>
+neu:0.608      </score>
+<score>
+pos:0.21      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8979      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.478      </score>
+<score>
+pos:0.522      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.723      </score>
+<score>
+pos:0.277      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.838      </score>
+<score>
+pos:0.162      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.13      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.756      </score>
+<score>
+pos:0.244      </score>
+</wrapper_score>
+</total_score>
+<summary>
+As he takes over from Eric Schmidt, Page has a lot of wind at his back.
+9) Fix Google’s public image problems, because where there’s a perception problem, there’s also a reality problem.
+That means Google’s search results won’t be the best at some point.
+The European Commission and the Texas attorney general’s office are investigating Google’s market power.
+Google’s market capitalization is $190.3 billion, while Apple’s is $317.4 billion.
+</summary>
+<keywords>
+['mobile', 'market', 'ceo', 'page', 'privacy', 'larry', 'facing', 'social', 'schmidt', 'search', 'public', 'googles', 'google', 'challenges']
+</keywords>
+<date>
+2011-04-04 00:00:00
+</date>
+</text>

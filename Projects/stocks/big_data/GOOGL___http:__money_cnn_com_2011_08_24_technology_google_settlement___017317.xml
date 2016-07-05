@@ -1,0 +1,229 @@
+<text>
+<url>
+http://money.cnn.com/2011/08/24/technology/google_settlement/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.6705      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.831      </score>
+<score>
+pos:0.169      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.94      </score>
+<score>
+pos:0.06      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.922      </score>
+<score>
+pos:0.078      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7269      </score>
+<score>
+neg:0.068      </score>
+<score>
+neu:0.699      </score>
+<score>
+pos:0.233      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7351      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.795      </score>
+<score>
+pos:0.205      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1027      </score>
+<score>
+neg:0.064      </score>
+<score>
+neu:0.825      </score>
+<score>
+pos:0.111      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.112      </score>
+<score>
+neu:0.845      </score>
+<score>
+pos:0.043      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.89      </score>
+<score>
+pos:0.11      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.121      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.839      </score>
+<score>
+pos:0.161      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.145      </score>
+<score>
+neu:0.855      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.901      </score>
+<score>
+pos:0.099      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5859      </score>
+<score>
+neg:0.183      </score>
+<score>
+neu:0.817      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5574      </score>
+<score>
+neg:0.217      </score>
+<score>
+neu:0.783      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.903      </score>
+<score>
+pos:0.097      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.34      </score>
+<score>
+neg:0.145      </score>
+<score>
+neu:0.766      </score>
+<score>
+pos:0.089      </score>
+</wrapper_score>
+</total_score>
+<summary>
+The Justice Department said Google (GOOG, Fortune 500) was aware as early as 2003 that Canadian pharmacies were illegally shipping prescription drugs into the United States.
+After being apprehended in Mexico and returned to the United States, he began cooperating with law enforcement agents and provided information about his use of Google ads.
+NEW YORK (CNNMoney) -- Google has agreed to a $500 million settlement with the U.S. Department of Justice for illegally allowing online Canadian pharmacies to advertise drugs to U.S. consumers.
+Google took steps to block pharmacies in countries other than Canada from advertising in the United States, but continued to allow Canadian pharmacy ads to target U.S. consumers.
+That prompted investigators to set up a sting, creating undercover websites for the purpose of advertising illegal prescription drug sales through AdWords.
+</summary>
+<keywords>
+['doj', 'sales', 'canadian', 'pays', 'drugs', 'settle', 'ads', 'googles', 'prescription', 'google', 'settlement', 'pharmacies', 'united', 'million', '500', 'states', 'illegal', 'case']
+</keywords>
+<date>
+2011-08-24 00:00:00
+</date>
+</text>

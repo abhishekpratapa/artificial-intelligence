@@ -1,0 +1,889 @@
+<text>
+<url>
+http://www.cnn.com/2010/OPINION/01/21/zakaria.google.china/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6542      </score>
+<score>
+neg:0.061      </score>
+<score>
+neu:0.813      </score>
+<score>
+pos:0.126      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6808      </score>
+<score>
+neg:0.143      </score>
+<score>
+neu:0.604      </score>
+<score>
+pos:0.254      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0258      </score>
+<score>
+neg:0.067      </score>
+<score>
+neu:0.864      </score>
+<score>
+pos:0.069      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6369      </score>
+<score>
+neg:0.198      </score>
+<score>
+neu:0.802      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.231      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3716      </score>
+<score>
+neg:0.129      </score>
+<score>
+neu:0.871      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.133      </score>
+<score>
+neu:0.867      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3064      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.877      </score>
+<score>
+pos:0.123      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.88      </score>
+<score>
+pos:0.12      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3089      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.799      </score>
+<score>
+pos:0.201      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3151      </score>
+<score>
+neg:0.106      </score>
+<score>
+neu:0.844      </score>
+<score>
+pos:0.05      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.723      </score>
+<score>
+pos:0.277      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4201      </score>
+<score>
+neg:0.117      </score>
+<score>
+neu:0.883      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.216      </score>
+<score>
+neu:0.784      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.625      </score>
+<score>
+pos:0.375      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.091      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7269      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.779      </score>
+<score>
+pos:0.221      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.775      </score>
+<score>
+pos:0.225      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.814      </score>
+<score>
+pos:0.186      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4588      </score>
+<score>
+neg:0.091      </score>
+<score>
+neu:0.722      </score>
+<score>
+pos:0.187      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2297      </score>
+<score>
+neg:0.123      </score>
+<score>
+neu:0.81      </score>
+<score>
+pos:0.066      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2144      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.911      </score>
+<score>
+pos:0.089      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.662      </score>
+<score>
+pos:0.338      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.128      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.13      </score>
+<score>
+neu:0.798      </score>
+<score>
+pos:0.072      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.729      </score>
+<score>
+pos:0.271      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.093      </score>
+<score>
+neu:0.72      </score>
+<score>
+pos:0.186      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7199      </score>
+<score>
+neg:0.229      </score>
+<score>
+neu:0.664      </score>
+<score>
+pos:0.107      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8082      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.627      </score>
+<score>
+pos:0.373      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6486      </score>
+<score>
+neg:0.076      </score>
+<score>
+neu:0.748      </score>
+<score>
+pos:0.176      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.854      </score>
+<score>
+pos:0.146      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0948      </score>
+<score>
+neg:0.069      </score>
+<score>
+neu:0.844      </score>
+<score>
+pos:0.087      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.723      </score>
+<score>
+pos:0.277      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.776      </score>
+<score>
+pos:0.224      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.922      </score>
+<score>
+pos:0.078      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5844      </score>
+<score>
+neg:0.193      </score>
+<score>
+neu:0.703      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4576      </score>
+<score>
+neg:0.125      </score>
+<score>
+neu:0.875      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.714      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.819      </score>
+<score>
+pos:0.181      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.659      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.65      </score>
+<score>
+pos:0.35      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2952      </score>
+<score>
+neg:0.084      </score>
+<score>
+neu:0.916      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.286      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.915      </score>
+<score>
+pos:0.085      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.882      </score>
+<score>
+pos:0.118      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4201      </score>
+<score>
+neg:0.128      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.743      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.578      </score>
+<score>
+pos:0.422      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.9286      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.74      </score>
+<score>
+pos:0.26      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.763      </score>
+<score>
+pos:0.237      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.9186      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.729      </score>
+<score>
+pos:0.271      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.9147      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.797      </score>
+<score>
+pos:0.203      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.818      </score>
+<score>
+pos:0.182      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4939      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.84      </score>
+<score>
+pos:0.16      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3412      </score>
+<score>
+neg:0.286      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2716      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.928      </score>
+<score>
+pos:0.072      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3708      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.887      </score>
+<score>
+pos:0.113      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3626      </score>
+<score>
+neg:0.075      </score>
+<score>
+neu:0.823      </score>
+<score>
+pos:0.102      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7184      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.231      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.066      </score>
+<score>
+neu:0.934      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Let's remember that China doesn't only have what's called the great firewall of China, the filtering and censoring system.
+Ultimately the question is: Can China be a world leader that is admired, imitated and that shapes the global system and global values?
+The more China turns inward, the more difficult it will be for American companies to find equal footing in China.
+Fareed Zakaria: At one level, the dispute is about one company and the difficulty it's having doing business in China, but it's really a much broader issue.
+CNN: What's the dispute between Google and China all about?
+</summary>
+<keywords>
+['system', 'stake', 'issue', 'chinese', 'information', 'google', 'think', 'really', 'china', 'vs', 'whats', 'open', 'global', 'world']
+</keywords>
+<date>
+None
+</date>
+</text>

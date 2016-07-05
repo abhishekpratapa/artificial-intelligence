@@ -1,0 +1,259 @@
+<text>
+<url>
+http://kensegall.com/2011/09/googles-dont-be-evil-loophole/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.7283      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.662      </score>
+<score>
+pos:0.338      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1027      </score>
+<score>
+neg:0.198      </score>
+<score>
+neu:0.541      </score>
+<score>
+pos:0.261      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:1.0      </score>
+<score>
+neu:0.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8481      </score>
+<score>
+neg:0.336      </score>
+<score>
+neu:0.595      </score>
+<score>
+pos:0.069      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5448      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.837      </score>
+<score>
+pos:0.163      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.819      </score>
+<score>
+pos:0.181      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.741      </score>
+<score>
+pos:0.259      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6597      </score>
+<score>
+neg:0.278      </score>
+<score>
+neu:0.722      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.839      </score>
+<score>
+pos:0.161      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.93      </score>
+<score>
+pos:0.07      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.853      </score>
+<score>
+pos:0.147      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5801      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.815      </score>
+<score>
+pos:0.185      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:1.0      </score>
+<score>
+neu:0.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6597      </score>
+<score>
+neg:0.688      </score>
+<score>
+neu:0.312      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5448      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.631      </score>
+<score>
+pos:0.369      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Tags: don't be evil, google, ken segall
+And I couldn’t help but notice an example of Google’s confused sense of evil on their own corporate philosophy page.
+They can say things like Don’t be evil and be cheered on by the masses.
+Maybe there’s some kind of semantic difference between “accepting” pop-up ads and sticking them in our faces.
+We don’t accept pop–up advertising, which interferes with your ability to see the content you’ve requested.
+</summary>
+<keywords>
+['observatory', 'advertising', 'things', 'youtube', 'evil', 'ads', 'sense', 'youve', 'dont', 'popup', 'loophole', 'googles', 'google']
+</keywords>
+<date>
+2011-09-06 14:22:27+00:00
+</date>
+</text>

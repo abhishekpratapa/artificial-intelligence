@@ -1,0 +1,259 @@
+<text>
+<url>
+http://archive.fortune.com/2009/10/01/autos/mustang_super_snake.fortune/index.htm</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.138      </score>
+<score>
+neu:0.638      </score>
+<score>
+pos:0.223      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5859      </score>
+<score>
+neg:0.051      </score>
+<score>
+neu:0.869      </score>
+<score>
+pos:0.08      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.921      </score>
+<score>
+pos:0.079      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5423      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.13      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2716      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.905      </score>
+<score>
+pos:0.095      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.73      </score>
+<score>
+pos:0.27      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.11      </score>
+<score>
+neu:0.89      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8151      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.654      </score>
+<score>
+pos:0.346      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0023      </score>
+<score>
+neg:0.088      </score>
+<score>
+neu:0.767      </score>
+<score>
+pos:0.145      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6908      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.845      </score>
+<score>
+pos:0.155      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.765      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.742      </score>
+<score>
+pos:0.258      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.888      </score>
+<score>
+pos:0.112      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7906      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.731      </score>
+<score>
+pos:0.269      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8573      </score>
+<score>
+neg:0.308      </score>
+<score>
+neu:0.692      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.756      </score>
+<score>
+pos:0.244      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6908      </score>
+<score>
+neg:0.097      </score>
+<score>
+neu:0.595      </score>
+<score>
+pos:0.309      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.925      </score>
+<score>
+pos:0.075      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.857      </score>
+<score>
+pos:0.143      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0258      </score>
+<score>
+neg:0.12      </score>
+<score>
+neu:0.765      </score>
+<score>
+pos:0.115      </score>
+</wrapper_score>
+</total_score>
+<summary>
+The latest, baddest boy is the 2010 Shelby GT500 Super Snake, which comes in two potent strengths: 630 or 750 horsepower.
+For starters there's his involvement with Ford's 2010 Shelby GT500 (from $46,325, on sale now).
+You buy your own base 2010 Shelby GT500 and bring it in for transformation.
+Once Shelby-ized, the Mustang has the kind of power and handling that befits the Super Snake name: The 3,900-pound car manages to feel light and lithe and, despite a sizable body, also taut.
+In 1964 he helped Lee Iacocca launch one of the most important American cars of all time: the Ford Mustang GT350.
+</summary>
+<keywords>
+['2010', 'carroll', 'mustangs', 'shelbys', 'ford', 'vegas', 'shelby', 'snake', 'super', 'gt500', 'mustang', 'car', 'volkswagen']
+</keywords>
+<date>
+2009-10-01 00:00:00
+</date>
+</text>

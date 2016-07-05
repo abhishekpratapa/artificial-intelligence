@@ -1,0 +1,169 @@
+<text>
+<url>
+http://money.cnn.com/2010/02/24/technology/Google_Italy_privacy_conviction/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.743      </score>
+<score>
+neg:0.145      </score>
+<score>
+neu:0.855      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5994      </score>
+<score>
+neg:0.077      </score>
+<score>
+neu:0.923      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.028      </score>
+<score>
+neu:0.905      </score>
+<score>
+pos:0.068      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7269      </score>
+<score>
+neg:0.124      </score>
+<score>
+neu:0.847      </score>
+<score>
+pos:0.028      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.577      </score>
+<score>
+neg:0.246      </score>
+<score>
+neu:0.632      </score>
+<score>
+pos:0.122      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.877      </score>
+<score>
+pos:0.123      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5859      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.814      </score>
+<score>
+pos:0.186      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5423      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.877      </score>
+<score>
+pos:0.123      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0258      </score>
+<score>
+neg:0.048      </score>
+<score>
+neu:0.906      </score>
+<score>
+pos:0.045      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6808      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.817      </score>
+<score>
+pos:0.183      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3164      </score>
+<score>
+neg:0.173      </score>
+<score>
+neu:0.552      </score>
+<score>
+pos:0.275      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.16      </score>
+<score>
+neu:0.709      </score>
+<score>
+pos:0.131      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.907      </score>
+<score>
+pos:0.093      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.105      </score>
+<score>
+neu:0.895      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Italy convicts Google execs over uploaded videoNEW YORK (CNNMoney.com) -- A judge in Milan found three Google executives guilty Wednesday of violating Italy's privacy code over a video that was uploaded on the search giant's video platform, the company said.
+The video was uploaded to Google Video, prior to the company's purchase of YouTube.
+Google is also being investigated by European antitrust officials, who have received complaints about the search giant's practices from three different European Internet companies.
+"In essence this ruling means that employees of hosting platforms like Google Video are criminally responsible for content that users upload," Sucherman said.
+All but Desikan were found guilty of the privacy charge, and the judge found all four executives not guilty of criminal defamation.
+</summary>
+<keywords>
+['internet', 'uploaded', 'european', 'hosting', 'italy', 'violations', 'privacy', 'execs', 'sucherman', 'video', 'convicts', 'google', 'executives', 'guilty']
+</keywords>
+<date>
+2010-02-24 00:00:00
+</date>
+</text>

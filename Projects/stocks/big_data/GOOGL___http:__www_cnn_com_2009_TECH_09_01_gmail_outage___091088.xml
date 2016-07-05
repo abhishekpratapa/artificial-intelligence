@@ -1,0 +1,229 @@
+<text>
+<url>
+http://www.cnn.com/2009/TECH/09/01/gmail.outage/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.051      </score>
+<score>
+neu:0.949      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.481      </score>
+<score>
+neg:0.194      </score>
+<score>
+neu:0.806      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5709      </score>
+<score>
+neg:0.118      </score>
+<score>
+neu:0.882      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.86      </score>
+<score>
+pos:0.14      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7269      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.831      </score>
+<score>
+pos:0.169      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.078      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.052      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.898      </score>
+<score>
+pos:0.102      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.884      </score>
+<score>
+pos:0.116      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5859      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.73      </score>
+<score>
+pos:0.27      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1531      </score>
+<score>
+neg:0.054      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.076      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4753      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.744      </score>
+<score>
+pos:0.256      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+All About Google Gmail • Twitter Inc.
+(CNN) -- Google said Tuesday's widespread Gmail outage occurred when the company took some servers offline to perform routine maintenance, causing its remaining routers to become overloaded with traffic.
+People couldn't access Gmail via the Web interface Tuesday because their requests couldn't be routed to a Gmail server, Treynor explained.
+Many Gmail users encountered this error message when trying to access their e-mail Tuesday.
+Gmail remains the third-most popular Web-based e-mail service, after Yahoo!
+</summary>
+<keywords>
+['email', 'outage', 'apologizes', 'explains', 'widespread', 'users', 'wrotegmail', 'things', 'treynor', 'service', 'gmail', 'google', 'twitter']
+</keywords>
+<date>
+None
+</date>
+</text>

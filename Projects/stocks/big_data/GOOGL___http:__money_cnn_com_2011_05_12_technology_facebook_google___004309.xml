@@ -1,0 +1,419 @@
+<text>
+<url>
+http://money.cnn.com/2011/05/12/technology/facebook_google/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.5267      </score>
+<score>
+neg:0.195      </score>
+<score>
+neu:0.805      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5411      </score>
+<score>
+neg:0.241      </score>
+<score>
+neu:0.759      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.133      </score>
+<score>
+neu:0.867      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1655      </score>
+<score>
+neg:0.048      </score>
+<score>
+neu:0.952      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.21      </score>
+<score>
+neu:0.538      </score>
+<score>
+pos:0.253      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5256      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.805      </score>
+<score>
+pos:0.195      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.263      </score>
+<score>
+neu:0.737      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.115      </score>
+<score>
+neu:0.795      </score>
+<score>
+pos:0.091      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.861      </score>
+<score>
+pos:0.139      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.113      </score>
+<score>
+neu:0.887      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.121      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.912      </score>
+<score>
+pos:0.088      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0258      </score>
+<score>
+neg:0.041      </score>
+<score>
+neu:0.915      </score>
+<score>
+pos:0.044      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2057      </score>
+<score>
+neg:0.131      </score>
+<score>
+neu:0.869      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.324      </score>
+<score>
+neu:0.432      </score>
+<score>
+pos:0.243      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1796      </score>
+<score>
+neg:0.258      </score>
+<score>
+neu:0.585      </score>
+<score>
+pos:0.158      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.912      </score>
+<score>
+pos:0.088      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.822      </score>
+<score>
+pos:0.178      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0772      </score>
+<score>
+neg:0.064      </score>
+<score>
+neu:0.936      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.783      </score>
+<score>
+pos:0.217      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.113      </score>
+<score>
+neu:0.792      </score>
+<score>
+pos:0.094      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5859      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.696      </score>
+<score>
+pos:0.304      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6808      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.128      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4576      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.572      </score>
+<score>
+pos:0.428      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Dueling giants: Facebook hired a PR firm to spread anti-Google e-mails about 'violations of user privacy.'
+The article also noted that two ex-journalists -- former CNBC tech reporter Jim Goldman and former political columnist John Mercurio -- were leading the Burson campaign.
+Welcome to a new level skullduggery in the growing war between Facebook and Google.
+The Burson rep wouldn't disclose who had hired the firm, and Soghoian promptly posted the e-mail exchange online.
+Facebook merely "wanted third parties to verify that people did not approve" of Google's using their personal data -- including Facebook data -- in Social Circles, the rep said.
+</summary>
+<keywords>
+['email', 'emails', 'google', 'turns', 'burson', 'nasty', 'campaign', 'vs', 'facebook', 'googles', 'rep', 'hired', 'war', 'data', 'social']
+</keywords>
+<date>
+2011-05-12 00:00:00
+</date>
+</text>

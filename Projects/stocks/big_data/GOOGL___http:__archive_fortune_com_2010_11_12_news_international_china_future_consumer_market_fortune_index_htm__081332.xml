@@ -1,0 +1,439 @@
+<text>
+<url>
+http://archive.fortune.com/2010/11/12/news/international/china_future_consumer_market.fortune/index.htm</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.247      </score>
+<score>
+neu:0.588      </score>
+<score>
+pos:0.165      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.167      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.245      </score>
+<score>
+neu:0.755      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.205      </score>
+<score>
+neu:0.697      </score>
+<score>
+pos:0.098      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.764      </score>
+<score>
+pos:0.236      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7096      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.862      </score>
+<score>
+pos:0.138      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.875      </score>
+<score>
+pos:0.125      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0258      </score>
+<score>
+neg:0.058      </score>
+<score>
+neu:0.882      </score>
+<score>
+pos:0.06      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.615      </score>
+<score>
+pos:0.385      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.891      </score>
+<score>
+pos:0.109      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1779      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.898      </score>
+<score>
+pos:0.102      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7717      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.642      </score>
+<score>
+pos:0.358      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.865      </score>
+<score>
+pos:0.135      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7184      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.739      </score>
+<score>
+pos:0.261      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7579      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.828      </score>
+<score>
+pos:0.172      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.128      </score>
+<score>
+neu:0.577      </score>
+<score>
+pos:0.295      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.047      </score>
+<score>
+neu:0.825      </score>
+<score>
+pos:0.129      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8126      </score>
+<score>
+neg:0.097      </score>
+<score>
+neu:0.751      </score>
+<score>
+pos:0.151      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.198      </score>
+<score>
+neu:0.802      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7964      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.722      </score>
+<score>
+pos:0.278      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6705      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.825      </score>
+<score>
+pos:0.175      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8225      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.764      </score>
+<score>
+pos:0.236      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.905      </score>
+<score>
+pos:0.095      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8834      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.766      </score>
+<score>
+pos:0.234      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7717      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.674      </score>
+<score>
+pos:0.326      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.931      </score>
+<score>
+pos:0.069      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.183      </score>
+<score>
+neu:0.817      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4993      </score>
+<score>
+neg:0.15      </score>
+<score>
+neu:0.85      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.158      </score>
+<score>
+neu:0.842      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.25      </score>
+<score>
+neg:0.667      </score>
+<score>
+neu:0.333      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.06      </score>
+<score>
+neu:0.837      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.9422      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.675      </score>
+<score>
+pos:0.325      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7469      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.895      </score>
+<score>
+pos:0.105      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+This article is adapted from his new book, As China Goes, So Goes the World: How Chinese Consumers are Transforming Everything.
+China: The next branding superpower?
+In China, branding is more overtly an issue of economic nationalism than in countries such as the United States.
+But what's clear is that Chinese leaders are making a big push to try to have such brands dominate first China, next the world.
+This struggle manifests itself in many ways, including the ongoing dispute over the value of the Chinese currency, the renminbi.
+</summary>
+<keywords>
+['world', 'superpower', 'chinese', 'currency', 'value', 'leaders', 'brands', 'consumers', 'buy', 'china', 'chinas', 'branding']
+</keywords>
+<date>
+2010-11-12 00:00:00
+</date>
+</text>

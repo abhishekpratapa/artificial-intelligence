@@ -1,0 +1,509 @@
+<text>
+<url>
+http://money.cnn.com/2011/08/15/technology/google_motorola/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4939      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.865      </score>
+<score>
+pos:0.135      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8271      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.707      </score>
+<score>
+pos:0.293      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.917      </score>
+<score>
+pos:0.083      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1531      </score>
+<score>
+neg:0.082      </score>
+<score>
+neu:0.918      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5423      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.78      </score>
+<score>
+pos:0.22      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.659      </score>
+<score>
+pos:0.341      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0772      </score>
+<score>
+neg:0.055      </score>
+<score>
+neu:0.9      </score>
+<score>
+pos:0.045      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.091      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6705      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.718      </score>
+<score>
+pos:0.282      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5574      </score>
+<score>
+neg:0.194      </score>
+<score>
+neu:0.806      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.841      </score>
+<score>
+pos:0.159      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0258      </score>
+<score>
+neg:0.106      </score>
+<score>
+neu:0.795      </score>
+<score>
+pos:0.099      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7003      </score>
+<score>
+neg:0.172      </score>
+<score>
+neu:0.781      </score>
+<score>
+pos:0.047      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1779      </score>
+<score>
+neg:0.057      </score>
+<score>
+neu:0.857      </score>
+<score>
+pos:0.086      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.88      </score>
+<score>
+pos:0.12      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.106      </score>
+<score>
+neu:0.894      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.065      </score>
+<score>
+neu:0.935      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.892      </score>
+<score>
+pos:0.108      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4717      </score>
+<score>
+neg:0.096      </score>
+<score>
+neu:0.904      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5719      </score>
+<score>
+neg:0.156      </score>
+<score>
+neu:0.844      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1779      </score>
+<score>
+neg:0.139      </score>
+<score>
+neu:0.712      </score>
+<score>
+pos:0.149      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4767      </score>
+<score>
+neg:0.154      </score>
+<score>
+neu:0.846      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6808      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.804      </score>
+<score>
+pos:0.196      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.891      </score>
+<score>
+pos:0.109      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.807      </score>
+<score>
+pos:0.193      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.873      </score>
+<score>
+pos:0.127      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.887      </score>
+<score>
+pos:0.113      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.084      </score>
+<score>
+neu:0.737      </score>
+<score>
+pos:0.179      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2263      </score>
+<score>
+neg:0.178      </score>
+<score>
+neu:0.541      </score>
+<score>
+pos:0.281      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8074      </score>
+<score>
+neg:0.293      </score>
+<score>
+neu:0.707      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7305      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.661      </score>
+<score>
+pos:0.339      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.899      </score>
+<score>
+pos:0.101      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7783      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.606      </score>
+<score>
+pos:0.394      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.167      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.517      </score>
+<score>
+pos:0.483      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.876      </score>
+<score>
+pos:0.124      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Google has signed a deal to buy Motorola Mobility for $12.5 billion.
+But Google also said it wants to buy Motorola Mobility to defend against patent lawsuits levied by its competitors.
+0:00 / 1:06 Google gobbles up Motorola MobilityAnalysts expressed concern that buying Motorola Mobility will anger Google's other handset manufacturing partners.
+NEW YORK (CNNMoney) -- In a surprise deal that would be its largest acquisition ever, Google has agreed to buy Motorola Mobility for $12.5 billion, the two companies said Monday.
+Earlier this year, Motorola's consumer products business split from its public safety business, Motorola Solutions (MSI, Fortune 500).
+</summary>
+<keywords>
+['system', 'android', 'business', 'motorola', 'deal', 'billion', 'google', '125', 'googles', 'patents', 'patent', 'mobility', 'buy']
+</keywords>
+<date>
+2011-08-15 00:00:00
+</date>
+</text>

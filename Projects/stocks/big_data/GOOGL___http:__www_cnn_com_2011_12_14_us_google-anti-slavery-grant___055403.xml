@@ -1,0 +1,239 @@
+<text>
+<url>
+http://www.cnn.com/2011/12/14/us/google-anti-slavery-grant/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.5719      </score>
+<score>
+neg:0.144      </score>
+<score>
+neu:0.744      </score>
+<score>
+pos:0.112      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7096      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.742      </score>
+<score>
+pos:0.258      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5859      </score>
+<score>
+neg:0.259      </score>
+<score>
+neu:0.62      </score>
+<score>
+pos:0.12      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.1      </score>
+<score>
+neu:0.849      </score>
+<score>
+pos:0.05      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0679      </score>
+<score>
+neg:0.228      </score>
+<score>
+neu:0.493      </score>
+<score>
+pos:0.279      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1154      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.941      </score>
+<score>
+pos:0.059      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5423      </score>
+<score>
+neg:0.094      </score>
+<score>
+neu:0.724      </score>
+<score>
+pos:0.182      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8214      </score>
+<score>
+neg:0.299      </score>
+<score>
+neu:0.634      </score>
+<score>
+pos:0.067      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5574      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.566      </score>
+<score>
+pos:0.434      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.838      </score>
+<score>
+pos:0.162      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8658      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.614      </score>
+<score>
+pos:0.386      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.692      </score>
+<score>
+pos:0.308      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.912      </score>
+<score>
+pos:0.088      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8316      </score>
+<score>
+neg:0.148      </score>
+<score>
+neu:0.852      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.166      </score>
+<score>
+neu:0.725      </score>
+<score>
+pos:0.109      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7579      </score>
+<score>
+neg:0.253      </score>
+<score>
+neu:0.683      </score>
+<score>
+pos:0.065      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1531      </score>
+<score>
+neg:0.141      </score>
+<score>
+neu:0.735      </score>
+<score>
+pos:0.124      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7003      </score>
+<score>
+neg:0.231      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+"This is the largest corporate step up to the challenge that is beginning to apply direct resources to the fight against slavery," Haugen said.
+CNN has also joined the fight against modern-day slavery and collaborates regularly with many advocacy groups, including the recipients of these Google grants.
+Numbers vary widely, but policymakers, activists and scholars estimate the number of modern-day slaves at somewhere between 10 million and 30 million people worldwide.
+Gary Haugen, president and CEO of International Justice Mission, one of the grant recipients, called the move a "game-changing investment."
+According to estimates by grant recipients, Google's support will free an estimated 12,000 people from slavery and prevent millions more from being victimized.
+</summary>
+<keywords>
+['haugen', 'joins', 'fight', 'google', 'freedom', 'modernday', 'slavery', 'international', 'groups', 'recipients', 'organizations', 'million', 'grant', '115', 'human']
+</keywords>
+<date>
+2011-12-14 00:00:00
+</date>
+</text>

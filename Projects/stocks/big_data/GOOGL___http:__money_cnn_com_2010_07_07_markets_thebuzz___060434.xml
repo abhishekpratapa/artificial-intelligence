@@ -1,0 +1,569 @@
+<text>
+<url>
+http://money.cnn.com/2010/07/07/markets/thebuzz/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.6251      </score>
+<score>
+neg:0.219      </score>
+<score>
+neu:0.72      </score>
+<score>
+pos:0.062      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6597      </score>
+<score>
+neg:0.286      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0772      </score>
+<score>
+neg:0.127      </score>
+<score>
+neu:0.761      </score>
+<score>
+pos:0.112      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.745      </score>
+<score>
+pos:0.255      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.856      </score>
+<score>
+pos:0.144      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2057      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.858      </score>
+<score>
+pos:0.142      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8126      </score>
+<score>
+neg:0.251      </score>
+<score>
+neu:0.749      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.12      </score>
+<score>
+neu:0.811      </score>
+<score>
+pos:0.069      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0772      </score>
+<score>
+neg:0.117      </score>
+<score>
+neu:0.782      </score>
+<score>
+pos:0.101      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0258      </score>
+<score>
+neg:0.094      </score>
+<score>
+neu:0.784      </score>
+<score>
+pos:0.122      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.066      </score>
+<score>
+neu:0.812      </score>
+<score>
+pos:0.122      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.469      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.861      </score>
+<score>
+pos:0.139      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.024      </score>
+<score>
+neg:0.259      </score>
+<score>
+neu:0.47      </score>
+<score>
+pos:0.27      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.8      </score>
+<score>
+pos:0.2      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.213      </score>
+<score>
+neu:0.787      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5574      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.82      </score>
+<score>
+pos:0.18      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.839      </score>
+<score>
+pos:0.161      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7783      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.638      </score>
+<score>
+pos:0.362      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.194      </score>
+<score>
+neu:0.463      </score>
+<score>
+pos:0.343      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.167      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.809      </score>
+<score>
+pos:0.191      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.938      </score>
+<score>
+pos:0.062      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.068      </score>
+<score>
+neu:0.853      </score>
+<score>
+pos:0.079      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6124      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.783      </score>
+<score>
+pos:0.217      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.067      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.055      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1406      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.934      </score>
+<score>
+pos:0.066      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.855      </score>
+<score>
+pos:0.145      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6597      </score>
+<score>
+neg:0.252      </score>
+<score>
+neu:0.748      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7096      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.604      </score>
+<score>
+pos:0.396      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.816      </score>
+<score>
+pos:0.184      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.729      </score>
+<score>
+pos:0.271      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4173      </score>
+<score>
+neg:0.171      </score>
+<score>
+neu:0.754      </score>
+<score>
+pos:0.075      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5927      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.778      </score>
+<score>
+pos:0.222      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.662      </score>
+<score>
+pos:0.338      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.07      </score>
+<score>
+neu:0.93      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.055      </score>
+<score>
+neu:0.9      </score>
+<score>
+pos:0.045      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6597      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.838      </score>
+<score>
+pos:0.162      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.167      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.091      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.828      </score>
+<score>
+pos:0.172      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.804      </score>
+<score>
+pos:0.196      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7328      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.762      </score>
+<score>
+pos:0.238      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.188      </score>
+<score>
+neu:0.652      </score>
+<score>
+pos:0.159      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Even though Google remains the undisputed king in online search, investors seem bored with Google's dominance.
+Still, from the standpoint of investors, Google may not have to become as sexy as Apple or Facebook.
+During that unlucky stretch, Google's stock plunged (coincidentally?)
+Over the past five years, Google's annual earnings growth rate has averaged nearly 40%.
+Sinha said that Google is already positioned well in the so-called display market, selling graphical ads that aren't just contextual search links.
+</summary>
+<keywords>
+['stock', 'buzz', 'market', 'earnings', 'feeling', 'lucky', 'growth', 'thats', 'arent', 'anymore', 'search', 'investors', 'apple', 'googles', 'google']
+</keywords>
+<date>
+2010-07-07 00:00:00
+</date>
+</text>

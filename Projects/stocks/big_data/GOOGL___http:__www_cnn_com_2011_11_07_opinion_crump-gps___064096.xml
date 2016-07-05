@@ -1,0 +1,239 @@
+<text>
+<url>
+http://www.cnn.com/2011/11/07/opinion/crump-gps/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.9136      </score>
+<score>
+neg:0.025      </score>
+<score>
+neu:0.767      </score>
+<score>
+pos:0.208      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1027      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.931      </score>
+<score>
+pos:0.069      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.091      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6486      </score>
+<score>
+neg:0.175      </score>
+<score>
+neu:0.825      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0191      </score>
+<score>
+neg:0.021      </score>
+<score>
+neu:0.979      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.033      </score>
+<score>
+neu:0.967      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7579      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.772      </score>
+<score>
+pos:0.228      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.876      </score>
+<score>
+pos:0.124      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.091      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.882      </score>
+<score>
+pos:0.118      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.933      </score>
+<score>
+pos:0.067      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.963      </score>
+<score>
+pos:0.037      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.039      </score>
+<score>
+neu:0.861      </score>
+<score>
+pos:0.1      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7717      </score>
+<score>
+neg:0.069      </score>
+<score>
+neu:0.654      </score>
+<score>
+pos:0.277      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Story highlights Should law enforcement need a warrant before planting a GPS tracking device on a car?
+The case, U.S. v. Jones, presents the question of whether law enforcement needs a warrant before planting a GPS tracking device on a person's car.
+Cell phone tracking can reveal our private associations and relationships with one another.
+Increasingly, though, law enforcement agents are tracking our movements by tracking the cell phones that most people are already carrying around.
+But state and federal judges across the country have made conflicting rulings on what standards are required for the government to obtain tracking information from cell phone companies.
+</summary>
+<keywords>
+['privacy', 'case', 'movements', 'court', 'threatens', 'cell', 'device', 'tracking', 'gps', 'phone', 'track']
+</keywords>
+<date>
+2011-11-07 00:00:00
+</date>
+</text>

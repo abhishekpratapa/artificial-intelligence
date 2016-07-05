@@ -1,0 +1,499 @@
+<text>
+<url>
+http://www.cnn.com/2009/TECH/12/02/google.search.obama/index.html?iref=24hours</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.7906      </score>
+<score>
+neg:0.179      </score>
+<score>
+neu:0.78      </score>
+<score>
+pos:0.041      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.301      </score>
+<score>
+neu:0.699      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.924      </score>
+<score>
+pos:0.076      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.095      </score>
+<score>
+neu:0.68      </score>
+<score>
+pos:0.224      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.292      </score>
+<score>
+neu:0.708      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.899      </score>
+<score>
+pos:0.101      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.091      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7003      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.83      </score>
+<score>
+pos:0.17      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5709      </score>
+<score>
+neg:0.227      </score>
+<score>
+neu:0.773      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.704      </score>
+<score>
+pos:0.296      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7469      </score>
+<score>
+neg:0.117      </score>
+<score>
+neu:0.883      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6597      </score>
+<score>
+neg:0.231      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.933      </score>
+<score>
+pos:0.067      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4754      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.89      </score>
+<score>
+pos:0.11      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0258      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.95      </score>
+<score>
+pos:0.05      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8271      </score>
+<score>
+neg:0.283      </score>
+<score>
+neu:0.717      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1779      </score>
+<score>
+neg:0.115      </score>
+<score>
+neu:0.733      </score>
+<score>
+pos:0.152      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7783      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.799      </score>
+<score>
+pos:0.201      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.828      </score>
+<score>
+pos:0.172      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.947      </score>
+<score>
+pos:0.053      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5719      </score>
+<score>
+neg:0.188      </score>
+<score>
+neu:0.812      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.073      </score>
+<score>
+neu:0.927      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5719      </score>
+<score>
+neg:0.15      </score>
+<score>
+neu:0.85      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.094      </score>
+<score>
+neu:0.906      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.147      </score>
+<score>
+neu:0.637      </score>
+<score>
+pos:0.216      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0258      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.864      </score>
+<score>
+pos:0.136      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.876      </score>
+<score>
+pos:0.124      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7096      </score>
+<score>
+neg:0.118      </score>
+<score>
+neu:0.575      </score>
+<score>
+pos:0.307      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3412      </score>
+<score>
+neg:0.131      </score>
+<score>
+neu:0.869      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3412      </score>
+<score>
+neg:0.376      </score>
+<score>
+neu:0.624      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+"If the term you're using is 'Michelle Obama ape,' one could argue that's a relevant result, however offensive it may be."
+Sullivan and other observers say the Michelle Obama photo did not appear to be a case of "bombing."
+(CNN) -- When a racist image of first lady Michelle Obama surfaced from the ugliest corners of the Internet last week to top Google's image search results, the episode shined a spotlight on the mysterious workings of search engines.
+"We're always working to improve our algorithm to provide more relevant search results," Rubin said.
+These hired guns work to push positive news to the top of search results while burying, as best as possible, negative information.
+</summary>
+<keywords>
+['search', 'results', 'light', 'image', 'searching', 'obama', 'things', 'web', 'rubin', 'shines', 'michelle', 'google', 'page', 'racist']
+</keywords>
+<date>
+None
+</date>
+</text>

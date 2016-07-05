@@ -1,0 +1,239 @@
+<text>
+<url>
+http://money.cnn.com/2014/04/16/technology/google-earnings/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.216      </score>
+<score>
+neu:0.784      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.098      </score>
+<score>
+neu:0.804      </score>
+<score>
+pos:0.098      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.13      </score>
+<score>
+neu:0.87      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.042      </score>
+<score>
+neu:0.838      </score>
+<score>
+pos:0.12      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2023      </score>
+<score>
+neg:0.114      </score>
+<score>
+neu:0.886      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.761      </score>
+<score>
+pos:0.239      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.919      </score>
+<score>
+pos:0.081      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.845      </score>
+<score>
+pos:0.155      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.079      </score>
+<score>
+neu:0.921      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.143      </score>
+<score>
+neu:0.857      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.12      </score>
+<score>
+neu:0.743      </score>
+<score>
+pos:0.137      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5859      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.814      </score>
+<score>
+pos:0.186      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.896      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Investors are getting impatient with Google' mobile marketing strategy.
+Google (GOOGL) shares sank 3% in after-hours trading Wednesday after the company posted first-quarter earnings and sales that missed expectations.
+Of particular concern was a 9% drop in payments from marketers per ad on Google sites.
+As advertisers begin to see the potential of mobile ads, including location targeting, Arora added that the gap between desktop and mobile ad rates would likely close.
+Earlier this week, Google announced the acquisition of Titan Aerospace, a start-up that makes high-altitude, solar-powered drones that Google hopes to use to deliver Internet service.
+</summary>
+<keywords>
+['ticker', 'shares', 'trade', 'ad', 'mobile', 'ads', 'sinks', 'titan', 'advertisers', 'billion', 'street', 'stock', 'google', 'missing']
+</keywords>
+<date>
+2014-04-16 00:00:00
+</date>
+</text>

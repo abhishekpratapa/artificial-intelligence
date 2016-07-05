@@ -1,0 +1,279 @@
+<text>
+<url>
+http://money.cnn.com/2011/03/31/technology/microsoft_google_antitrust/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.8934      </score>
+<score>
+neg:0.312      </score>
+<score>
+neu:0.688      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7096      </score>
+<score>
+neg:0.027      </score>
+<score>
+neu:0.773      </score>
+<score>
+pos:0.2      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.899      </score>
+<score>
+pos:0.101      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6369      </score>
+<score>
+neg:0.198      </score>
+<score>
+neu:0.802      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0772      </score>
+<score>
+neg:0.09      </score>
+<score>
+neu:0.83      </score>
+<score>
+pos:0.08      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.823      </score>
+<score>
+pos:0.177      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0258      </score>
+<score>
+neg:0.07      </score>
+<score>
+neu:0.863      </score>
+<score>
+pos:0.067      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.114      </score>
+<score>
+neu:0.777      </score>
+<score>
+pos:0.109      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.167      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1779      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.702      </score>
+<score>
+pos:0.298      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.875      </score>
+<score>
+pos:0.125      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.855      </score>
+<score>
+pos:0.145      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2584      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.912      </score>
+<score>
+pos:0.088      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.081      </score>
+<score>
+neu:0.749      </score>
+<score>
+pos:0.171      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.077      </score>
+<score>
+neu:0.804      </score>
+<score>
+pos:0.119      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.925      </score>
+<score>
+pos:0.075      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.121      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.159      </score>
+<score>
+neu:0.733      </score>
+<score>
+pos:0.108      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.875      </score>
+<score>
+pos:0.125      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.091      </score>
+<score>
+neu:0.847      </score>
+<score>
+pos:0.062      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.066      </score>
+<score>
+neu:0.934      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.075      </score>
+<score>
+neu:0.925      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7351      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.286      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Microsoft accuses Google of antitrust violationsNEW YORK (CNNMoney) -- Microsoft plans to file a formal complaint with the European Commission Thursday, accusing Google of abusing its position as the region's dominant search engine.
+And Microsoft joined in a chorus of companies that want more transparency in how Google ranks its advertisements.
+But if that data isn't interoperable with competitors' platforms, Microsoft claims many advertisers simply won't bother advertising with anyone other than Google.
+"Having spent more than a decade wearing the shoe on the other foot with the European Commission, the filing of a formal antitrust complaint is not something we take lightly.
+"For our part, we continue to discuss the case with the European Commission and we're happy to explain to anyone how our business works," a Google spokesman said.
+</summary>
+<keywords>
+['search', 'complaint', 'company', 'antitrust', 'google', 'googles', 'microsofts', 'violations', 'european', 'commission', 'microsoft', 'accuses', 'youtube']
+</keywords>
+<date>
+2011-03-31 00:00:00
+</date>
+</text>

@@ -1,0 +1,239 @@
+<text>
+<url>
+http://money.cnn.com/2011/04/08/technology/google_ita/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.9485      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.605      </score>
+<score>
+pos:0.395      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7579      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.783      </score>
+<score>
+pos:0.217      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0258      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.954      </score>
+<score>
+pos:0.046      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2095      </score>
+<score>
+neg:0.054      </score>
+<score>
+neu:0.821      </score>
+<score>
+pos:0.125      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7783      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.82      </score>
+<score>
+pos:0.18      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1779      </score>
+<score>
+neg:0.17      </score>
+<score>
+neu:0.702      </score>
+<score>
+pos:0.129      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7096      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.731      </score>
+<score>
+pos:0.269      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.796      </score>
+<score>
+pos:0.204      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8519      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.703      </score>
+<score>
+pos:0.297      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0516      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.121      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1531      </score>
+<score>
+neg:0.049      </score>
+<score>
+neu:0.951      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5023      </score>
+<score>
+neg:0.115      </score>
+<score>
+neu:0.885      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4939      </score>
+<score>
+neg:0.16      </score>
+<score>
+neu:0.84      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6195      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.76      </score>
+<score>
+pos:0.24      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7579      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.552      </score>
+<score>
+pos:0.448      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5859      </score>
+<score>
+neg:0.211      </score>
+<score>
+neu:0.789      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.855      </score>
+<score>
+pos:0.145      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+DOJ approves Google's ITA deal ... with caveatsNEW YORK (CNNMoney) -- Google can have its precious flight data company if it promises to play nice, the Department of Justice said on Friday.
+The DOJ approved the $700 million takeover deal between Google, the world's largest search company, and ITA, the world's largest airline search software company, provided that Google accept certain restrictions.
+For instance, Google could use ITA's software to field more advanced searches, like "Where can I travel for $700?"
+The search giant would have to continue to licence ITA's software to airfare websites "on commercially reasonable terms."
+When it announced the ITA deal last July, Google said it had no intention of selling airline tickets, but it would likely direct consumers to sites on which they can buy tickets.
+</summary>
+<keywords>
+['terms', 'approves', 'doj', 'ita', 'itas', 'googles', 'company', 'search', 'deal', 'google', 'software', 'flight', 'websites', 'caveats']
+</keywords>
+<date>
+2011-04-08 00:00:00
+</date>
+</text>

@@ -1,0 +1,589 @@
+<text>
+<url>
+http://money.cnn.com/2010/01/13/markets/thebuzz/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.118      </score>
+<score>
+neu:0.882      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4939      </score>
+<score>
+neg:0.093      </score>
+<score>
+neu:0.685      </score>
+<score>
+pos:0.222      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5859      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.513      </score>
+<score>
+pos:0.487      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.116      </score>
+<score>
+neu:0.751      </score>
+<score>
+pos:0.133      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.88      </score>
+<score>
+pos:0.12      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8338      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.704      </score>
+<score>
+pos:0.296      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.9062      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.328      </score>
+<score>
+pos:0.672      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2247      </score>
+<score>
+neg:0.174      </score>
+<score>
+neu:0.729      </score>
+<score>
+pos:0.097      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8446      </score>
+<score>
+neg:0.08      </score>
+<score>
+neu:0.568      </score>
+<score>
+pos:0.351      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.855      </score>
+<score>
+pos:0.145      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1621      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.902      </score>
+<score>
+pos:0.098      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.864      </score>
+<score>
+pos:0.136      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.921      </score>
+<score>
+pos:0.079      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3624      </score>
+<score>
+neg:0.208      </score>
+<score>
+neu:0.644      </score>
+<score>
+pos:0.148      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4767      </score>
+<score>
+neg:0.097      </score>
+<score>
+neu:0.903      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2411      </score>
+<score>
+neg:0.219      </score>
+<score>
+neu:0.781      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.105      </score>
+<score>
+neu:0.75      </score>
+<score>
+pos:0.145      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5994      </score>
+<score>
+neg:0.495      </score>
+<score>
+neu:0.505      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.861      </score>
+<score>
+pos:0.139      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.172      </score>
+<score>
+neu:0.828      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.811      </score>
+<score>
+pos:0.189      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7227      </score>
+<score>
+neg:0.039      </score>
+<score>
+neu:0.773      </score>
+<score>
+pos:0.189      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.063      </score>
+<score>
+neu:0.86      </score>
+<score>
+pos:0.077      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.098      </score>
+<score>
+neu:0.902      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.735      </score>
+<score>
+pos:0.265      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.194      </score>
+<score>
+neu:0.806      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2235      </score>
+<score>
+neg:0.173      </score>
+<score>
+neu:0.827      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.167      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.127      </score>
+<score>
+neu:0.718      </score>
+<score>
+pos:0.155      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0258      </score>
+<score>
+neg:0.095      </score>
+<score>
+neu:0.813      </score>
+<score>
+pos:0.092      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0516      </score>
+<score>
+neg:0.205      </score>
+<score>
+neu:0.574      </score>
+<score>
+pos:0.221      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7579      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.615      </score>
+<score>
+pos:0.385      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8176      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.667      </score>
+<score>
+pos:0.333      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6124      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.737      </score>
+<score>
+pos:0.263      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.719      </score>
+<score>
+pos:0.281      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.796      </score>
+<score>
+pos:0.204      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7783      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.698      </score>
+<score>
+pos:0.302      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7269      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.736      </score>
+<score>
+pos:0.264      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7906      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.65      </score>
+<score>
+pos:0.35      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.918      </score>
+<score>
+pos:0.082      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Google rolls the dice in ChinaWill Google leave China?
+Anyone buying Google's stock now has to be betting on growth around the world.
+According to figures from online tracking firms comScore and Analysys International, Baidu controls 64% of the search market in China; Google has just 31% of the market.
+Google's stock is trading at about 22 times 2010 earnings estimates.
+He wrote in a report Wednesday that he believes Google's profit margins in China right now are low.
+</summary>
+<keywords>
+['googles', 'wrote', 'pay', 'market', 'search', 'investors', 'analyst', 'google', 'stock', 'china', 'leave', 'gamble']
+</keywords>
+<date>
+2010-01-13 00:00:00
+</date>
+</text>

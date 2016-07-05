@@ -11,6 +11,8 @@ from google import search
 from newspaper import Article
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk import tokenize
+import google
+import random
 
 
 
@@ -97,29 +99,76 @@ def get_historical_data():
 	global selected_Ticker
 	UrlArray = []
 	sid = SentimentIntensityAnalyzer()
-	for url in search(selected_Ticker.name+" on cnn.com", tld='es', lang='es', stop=20):
-		UrlArray.append(url)
-	for urls in UrlArray:
-		if "com/20" in urls:
-			tokenize.sent_tokenize
+	
+	for yearName in range(2011, 2016):
+		for months in range(1, 13):
 
-			article = Article(urls)
-			article.download()
-			article.parse()
-			article.nlp()
+			variable_delay = random.uniform(5, 20)
+			time.sleep(variable_delay)
 
-			lines_list = tokenize.sent_tokenize(article.text)
+			google.cookie_jar.clear()
 
-			for sentence in lines_list:
-				ss = sid.polarity_scores(sentence)
-				for k in sorted(ss):
-					print('{0}: {1}, '.format(k, ss[k]), end='')
-				print()
+			for url in search(selected_Ticker.name+" on cnn.com "+str(yearName)+"/"+str(months).zfill(2), tld='es', lang='es', stop=20):
+				UrlArray.append(url)
 
-			print(article.summary)
-			print(article.keywords)
-			print(article.publish_date)
-			time.sleep(10)
+			for urls in UrlArray:
+				variable_delay_cnn = random.uniform(5, 20)
+				saving_text = ""
+				if "cnn.com/20" in urls:
+					tokenize.sent_tokenize
+
+					article = Article(urls)
+					
+					article.download()
+
+					if article.html == '':
+						continue
+
+					article.parse()
+					article.nlp()
+					saving_text = saving_text + "<text>" + "\n"
+					saving_text = saving_text + "<url>" + "\n"
+					saving_text = saving_text + urls
+					saving_text = saving_text + "</url>" + "\n"
+					lines_list = tokenize.sent_tokenize(article.text)
+					saving_text = saving_text + "<total_score>" + "\n"
+					for sentence in lines_list:
+						ss = sid.polarity_scores(sentence)
+						saving_text = saving_text + "<wrapper_score>" + "\n"
+						for k in sorted(ss):
+							print('{0}: {1}, '.format(k, ss[k]), end='')
+							saving_text = saving_text + "<score>" + "\n"
+							saving_text = saving_text + str(k) + ":" + str(ss[k]) + "      "
+							saving_text = saving_text + "</score>" + "\n"
+						saving_text = saving_text + "</wrapper_score>" + "\n"
+						print()
+					saving_text = saving_text + "</total_score>" + "\n"
+					print(article.summary)
+					saving_text = saving_text + "<summary>" + "\n"
+					saving_text = saving_text + str(article.summary) + "\n"
+					saving_text = saving_text + "</summary>" + "\n"
+					print(article.keywords)
+					saving_text = saving_text + "<keywords>" + "\n"
+					saving_text = saving_text + str(article.keywords) + "\n"
+					saving_text = saving_text + "</keywords>" + "\n"
+					print(article.publish_date)
+					saving_text = saving_text + "<date>" + "\n"
+					saving_text = saving_text + str(article.publish_date) + "\n"
+					saving_text = saving_text + "</date>" + "\n"
+					saving_text = saving_text + "</text>" + "\n"
+					elementsThere = urls.split(".")
+					
+					rand_numb = random.randrange(100000)
+					path_file = "big_data/" + str(selected_Ticker.name) + "___" + str(urls).replace("/", "_").replace(".", "_") + "__" + str(rand_numb).zfill(6) + ".xml"
+
+					f = open(path_file, 'a')
+					f.write(saving_text)
+					f.close()
+				
+				time.sleep(variable_delay_cnn)
+
+	print("parsing_done_54324")
+
 ####### End Data Management #######
 
 ####### Begin Menus #######
@@ -330,24 +379,41 @@ def main(argv):
 	selected_Ticker = None
 
 
-	while True:	
+	if len(argv) == 1:
+		while True:	
+			os.system('clear')
+			print_menu(0, error)
+			error = -1
+			#prompt
+			mydata = input('Prompt :')
+
+			if mydata == "e":
+				break;
+			elif mydata == "l":
+				break;
+			elif mydata == "s":
+				display_stats()
+			else:
+				error = 0
+
 		os.system('clear')
-		print_menu(0, error)
-		error = -1
-		#prompt
-		mydata = input('Prompt :')
+		exit()
+	else:
+		#check if verbose
+		if len(argv) == 3:
+			if argv[2].lower() == "nonverbose" or argv[2].lower() == "nv" or argv[2] == "-nv" or argv[2] == "-NV":
+				f = open(os.devnull, 'w')
+				sys.stdout = f
 
-		if mydata == "e":
-			break;
-		elif mydata == "l":
-			break;
-		elif mydata == "s":
-			display_stats()
+		if check_exists(argv[1], 0):
+			print("The Stock Exsists")
+			selected_Ticker = Selected(argv[1], 0)
+			print_menu(-1, -1)
+			get_historical_data()
 		else:
-			error = 0
-
-	os.system('clear')
-	exit()
+			print("that stock doesn't exist")
+			exit()
+		
 
 if __name__ == "__main__":
     main(sys.argv)

@@ -1,0 +1,429 @@
+<text>
+<url>
+http://money.cnn.com/2011/05/26/technology/google_wallet/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.876      </score>
+<score>
+pos:0.124      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.885      </score>
+<score>
+pos:0.115      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.043      </score>
+<score>
+neu:0.957      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.097      </score>
+<score>
+neu:0.903      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.957      </score>
+<score>
+pos:0.043      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.763      </score>
+<score>
+pos:0.237      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5129      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.798      </score>
+<score>
+pos:0.202      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.847      </score>
+<score>
+pos:0.153      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2263      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.899      </score>
+<score>
+pos:0.101      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.103      </score>
+<score>
+neu:0.802      </score>
+<score>
+pos:0.095      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.843      </score>
+<score>
+pos:0.157      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4278      </score>
+<score>
+neg:0.17      </score>
+<score>
+neu:0.73      </score>
+<score>
+pos:0.1      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6633      </score>
+<score>
+neg:0.287      </score>
+<score>
+neu:0.713      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6633      </score>
+<score>
+neg:0.307      </score>
+<score>
+neu:0.693      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.042      </score>
+<score>
+neu:0.838      </score>
+<score>
+pos:0.12      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6633      </score>
+<score>
+neg:0.207      </score>
+<score>
+neu:0.793      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.167      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7531      </score>
+<score>
+neg:0.349      </score>
+<score>
+neu:0.651      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.036      </score>
+<score>
+neu:0.964      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7672      </score>
+<score>
+neg:0.624      </score>
+<score>
+neu:0.376      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3751      </score>
+<score>
+neg:0.141      </score>
+<score>
+neu:0.636      </score>
+<score>
+pos:0.223      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8315      </score>
+<score>
+neg:0.27      </score>
+<score>
+neu:0.657      </score>
+<score>
+pos:0.073      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.836      </score>
+<score>
+neg:0.308      </score>
+<score>
+neu:0.692      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.838      </score>
+<score>
+pos:0.162      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.838      </score>
+<score>
+pos:0.162      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3034      </score>
+<score>
+neg:0.136      </score>
+<score>
+neu:0.766      </score>
+<score>
+pos:0.098      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.783      </score>
+<score>
+pos:0.217      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.883      </score>
+<score>
+pos:0.117      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.076      </score>
+<score>
+neu:0.924      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Google (GOOG, Fortune 500) said it won't be taking a cut of the transactions, like MasterCard (MA, Fortune 500) does.
+The project, called Google Wallet, will enable special chips embedded in many future Android devices to be used for payments.
+Google Wallet will launch in San Francisco and New York this summer, and will go national "in the coming months."
+That means that most new Android phones going on sale later this year will be able to use Google's new payments system.
+0:00 / 3:00 Google's mobile wallet is hereBut NFC payments have yet to take off in a big way.
+</summary>
+<keywords>
+['teams', 'mobile', 'payments', 'android', 'users', 'phones', '500', 'google', 'fortune', 'nfc', 'wallet', 'mastercard', 'cards']
+</keywords>
+<date>
+2011-05-26 00:00:00
+</date>
+</text>

@@ -1,0 +1,289 @@
+<text>
+<url>
+http://www.cnn.com/2011/TECH/web/06/27/google.data.requests/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.899      </score>
+<score>
+pos:0.101      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4767      </score>
+<score>
+neg:0.204      </score>
+<score>
+neu:0.719      </score>
+<score>
+pos:0.078      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7939      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.799      </score>
+<score>
+pos:0.201      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.091      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.25      </score>
+<score>
+neg:0.118      </score>
+<score>
+neu:0.764      </score>
+<score>
+pos:0.118      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1989      </score>
+<score>
+neg:0.081      </score>
+<score>
+neu:0.758      </score>
+<score>
+pos:0.161      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.903      </score>
+<score>
+pos:0.097      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4754      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.808      </score>
+<score>
+pos:0.192      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.896      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.818      </score>
+<score>
+pos:0.182      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.145      </score>
+<score>
+neu:0.745      </score>
+<score>
+pos:0.11      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.2      </score>
+<score>
+neu:0.8      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.188      </score>
+<score>
+neu:0.812      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5719      </score>
+<score>
+neg:0.209      </score>
+<score>
+neu:0.791      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.25      </score>
+<score>
+neg:0.065      </score>
+<score>
+neu:0.935      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.104      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.181      </score>
+</wrapper_score>
+</total_score>
+<summary>
+The U.S. sent Google 3,580 user-data requests during the last six months of 2009, which is when the Internet giant began its twice-yearly "transparency report."
+Google announced in March 2010 that its search engine stopped honoring censorship requests from China.
+In the latter half of 2010, Google provided at least 4,323 pieces of info to the U.S. Google did not disclose how many requests it complied with prior to changing its policy in July 2010.
+Google fielded 8,888 requests from the United States government last year asking for information on people using its services, the company wrote in a report on Monday.
+U.S. requests to Google last year were double those of Brazil, the second-most active federal government seeking data from the Internet giant, according to the report.
+</summary>
+<keywords>
+['data', 'info', 'search', '8888', 'services', 'federal', 'seeking', 'report', 'requests', '2010', 'userdata', 'sent', 'googles', 'google']
+</keywords>
+<date>
+None
+</date>
+</text>

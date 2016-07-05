@@ -1,0 +1,519 @@
+<text>
+<url>
+http://www.cnn.com/2009/TECH/07/08/anderson.google.antitrust.law/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6908      </score>
+<score>
+neg:0.192      </score>
+<score>
+neu:0.808      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.815      </score>
+<score>
+pos:0.185      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.95      </score>
+<score>
+pos:0.05      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5994      </score>
+<score>
+neg:0.109      </score>
+<score>
+neu:0.891      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.842      </score>
+<score>
+neg:0.132      </score>
+<score>
+neu:0.415      </score>
+<score>
+pos:0.453      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3353      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.855      </score>
+<score>
+pos:0.145      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6486      </score>
+<score>
+neg:0.055      </score>
+<score>
+neu:0.78      </score>
+<score>
+pos:0.164      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.167      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6124      </score>
+<score>
+neg:0.122      </score>
+<score>
+neu:0.84      </score>
+<score>
+pos:0.038      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.346      </score>
+<score>
+neu:0.481      </score>
+<score>
+pos:0.173      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.128      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.055      </score>
+<score>
+neu:0.842      </score>
+<score>
+pos:0.103      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7425      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.704      </score>
+<score>
+pos:0.296      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8591      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.596      </score>
+<score>
+pos:0.404      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7688      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.768      </score>
+<score>
+pos:0.232      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.815      </score>
+<score>
+pos:0.185      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.883      </score>
+<score>
+pos:0.117      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6652      </score>
+<score>
+neg:0.023      </score>
+<score>
+neu:0.859      </score>
+<score>
+pos:0.117      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1139      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.953      </score>
+<score>
+pos:0.047      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1056      </score>
+<score>
+neg:0.045      </score>
+<score>
+neu:0.899      </score>
+<score>
+pos:0.055      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.837      </score>
+<score>
+pos:0.163      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.474      </score>
+<score>
+neu:0.526      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8695      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.718      </score>
+<score>
+pos:0.282      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.892      </score>
+<score>
+pos:0.108      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.129      </score>
+<score>
+neu:0.804      </score>
+<score>
+pos:0.067      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.912      </score>
+<score>
+pos:0.088      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5574      </score>
+<score>
+neg:0.079      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.207      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.836      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.777      </score>
+<score>
+pos:0.223      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4795      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.708      </score>
+<score>
+pos:0.292      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6705      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.766      </score>
+<score>
+pos:0.234      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.856      </score>
+<score>
+pos:0.144      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.856      </score>
+<score>
+pos:0.144      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.923      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.627      </score>
+<score>
+pos:0.373      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.113      </score>
+<score>
+neu:0.887      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.697      </score>
+<score>
+neu:0.303      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7684      </score>
+<score>
+neg:0.221      </score>
+<score>
+neu:0.779      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.6      </score>
+<score>
+neu:0.4      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2937      </score>
+<score>
+neg:0.129      </score>
+<score>
+neu:0.67      </score>
+<score>
+pos:0.201      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Microsoft, meanwhile, is doing just the opposite: using the profits from its dominance of word processors and spreadsheets (Microsoft Office) to subsidize its competition with Google in search (Microsoft Bing).
+Like many Web companies, Google gives away most of what it does.
+As entrepreneur Alex Iskold has pointed out, Google is using the profits from its search advertising dominance to fund its competition with Microsoft in word processors and spreadsheets (Google Docs).
+How much market share would you have to have in one market to disallow you from using Free in another?
+The difference this time is that Google is the dominant player, and at least as far as search goes, Microsoft is a struggling upstart.
+</summary>
+<keywords>
+['freeforall', 'search', 'commentary', 'microsoft', 'using', 'companies', 'free', 'varney', 'web', 'markets', 'google', 'dominance']
+</keywords>
+<date>
+None
+</date>
+</text>

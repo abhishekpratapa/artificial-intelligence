@@ -1,0 +1,349 @@
+<text>
+<url>
+http://money.cnn.com/2010/10/14/technology/google_earnings/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0793      </score>
+<score>
+neg:0.143      </score>
+<score>
+neu:0.707      </score>
+<score>
+pos:0.15      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.902      </score>
+<score>
+pos:0.098      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0772      </score>
+<score>
+neg:0.115      </score>
+<score>
+neu:0.783      </score>
+<score>
+pos:0.101      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.34      </score>
+<score>
+neg:0.074      </score>
+<score>
+neu:0.926      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8201      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.793      </score>
+<score>
+pos:0.207      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4588      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.875      </score>
+<score>
+pos:0.125      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.091      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0258      </score>
+<score>
+neg:0.186      </score>
+<score>
+neu:0.619      </score>
+<score>
+pos:0.195      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.804      </score>
+<score>
+pos:0.196      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.09      </score>
+<score>
+neu:0.806      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.927      </score>
+<score>
+pos:0.073      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1779      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.898      </score>
+<score>
+pos:0.102      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6124      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.8      </score>
+<score>
+pos:0.2      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2716      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.851      </score>
+<score>
+pos:0.149      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0516      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.938      </score>
+<score>
+pos:0.062      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.906      </score>
+<score>
+pos:0.094      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.794      </score>
+<score>
+pos:0.206      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.874      </score>
+<score>
+pos:0.126      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4927      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.687      </score>
+<score>
+pos:0.313      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5956      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.856      </score>
+<score>
+pos:0.144      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.128      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1531      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.918      </score>
+<score>
+pos:0.082      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+That figure should have been attributed to Google's mobile advertising revenue.
+Mobile advertising revenue -- driven by adoption of Google's open-source Android smartphone operating system -- is at $1 billion a year, extropolating from the most recent quarter's results.
+0:00 / 03:17 Brin: Google search just got smarterThose emerging businesses helped Google far exceed Wall Street's financial estimates for the quarter.
+Correction: An earlier version of this story incorrectly stated that Google's Android revenue was $1 billion on an annualized basis.
+Search advertising -- the field Google dominates -- is by far the most prevalent advertising form on the Web.
+</summary>
+<keywords>
+['mobile', 'businesses', 'profit', 'company', 'analysts', 'advertising', '32', 'billion', 'search', 'revenue', 'jumps', 'googles', 'google']
+</keywords>
+<date>
+2010-10-14 00:00:00
+</date>
+</text>

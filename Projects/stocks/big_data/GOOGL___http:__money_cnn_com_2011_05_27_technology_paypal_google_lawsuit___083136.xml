@@ -1,0 +1,519 @@
+<text>
+<url>
+http://money.cnn.com/2011/05/27/technology/paypal_google_lawsuit/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.073      </score>
+<score>
+neu:0.927      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4548      </score>
+<score>
+neg:0.146      </score>
+<score>
+neu:0.603      </score>
+<score>
+pos:0.251      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5267      </score>
+<score>
+neg:0.254      </score>
+<score>
+neu:0.664      </score>
+<score>
+pos:0.082      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.119      </score>
+<score>
+neu:0.881      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6808      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.869      </score>
+<score>
+pos:0.131      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.217      </score>
+<score>
+neu:0.783      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.071      </score>
+<score>
+neu:0.929      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1531      </score>
+<score>
+neg:0.086      </score>
+<score>
+neu:0.914      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1531      </score>
+<score>
+neg:0.186      </score>
+<score>
+neu:0.814      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.9222      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.685      </score>
+<score>
+pos:0.315      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.891      </score>
+<score>
+pos:0.109      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0964      </score>
+<score>
+neg:0.168      </score>
+<score>
+neu:0.64      </score>
+<score>
+pos:0.192      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.091      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.158      </score>
+<score>
+neu:0.739      </score>
+<score>
+pos:0.103      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.863      </score>
+<score>
+pos:0.137      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4168      </score>
+<score>
+neg:0.148      </score>
+<score>
+neu:0.852      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.904      </score>
+<score>
+pos:0.096      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3535      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.926      </score>
+<score>
+pos:0.074      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.881      </score>
+<score>
+pos:0.119      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.902      </score>
+<score>
+pos:0.098      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4522      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.852      </score>
+<score>
+pos:0.148      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7506      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.286      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4939      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.842      </score>
+<score>
+pos:0.158      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.112      </score>
+<score>
+neu:0.888      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.224      </score>
+<score>
+neu:0.776      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7783      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.813      </score>
+<score>
+pos:0.187      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.763      </score>
+<score>
+pos:0.237      </score>
+</wrapper_score>
+</total_score>
+<summary>
+PayPal says Bedier and Google have "misappropriated PayPal trade secrets by disclosing them within Google and to major retailers."
+February 2011: Google inks a revised agreement with PayPal, but Google delays telling PayPal that it signed the agreement.
+Oct. 21, 2010: Bedier culminates interview process with Google by meeting with top Google executives, including then-President Larry Page.
+Nov. 2, 2010: Bedier meets again with Rubin to discuss how he could help Google compete against PayPal.
+NEW YORK (CNNMoney) -- PayPal and its parent company eBay sued Google this week.
+</summary>
+<keywords>
+['mobile', 'timeline', 'company', 'bedier', 'vs', '2010', 'vice', 'paypal', 'tilenius', 'secrets', 'ebay', 'president', 'google', 'stolen']
+</keywords>
+<date>
+2011-05-27 00:00:00
+</date>
+</text>

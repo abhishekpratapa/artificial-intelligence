@@ -1,0 +1,389 @@
+<text>
+<url>
+http://edition.cnn.com/2009/BUSINESS/04/16/google.china/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.2235      </score>
+<score>
+neg:0.159      </score>
+<score>
+neu:0.841      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6908      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.612      </score>
+<score>
+pos:0.388      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.729      </score>
+<score>
+pos:0.271      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.887      </score>
+<score>
+pos:0.113      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7351      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.659      </score>
+<score>
+pos:0.341      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.758      </score>
+<score>
+pos:0.242      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5984      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.71      </score>
+<score>
+pos:0.29      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5859      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.73      </score>
+<score>
+pos:0.27      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.34      </score>
+<score>
+neg:0.231      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5013      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.85      </score>
+<score>
+pos:0.15      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.259      </score>
+<score>
+neu:0.741      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.826      </score>
+<score>
+pos:0.174      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5984      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.786      </score>
+<score>
+pos:0.214      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0516      </score>
+<score>
+neg:0.094      </score>
+<score>
+neu:0.774      </score>
+<score>
+pos:0.132      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4588      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.875      </score>
+<score>
+pos:0.125      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2846      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.867      </score>
+<score>
+pos:0.133      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2263      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.888      </score>
+<score>
+pos:0.112      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.197      </score>
+<score>
+neu:0.803      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0258      </score>
+<score>
+neg:0.154      </score>
+<score>
+neu:0.699      </score>
+<score>
+pos:0.147      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.8      </score>
+<score>
+pos:0.2      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2382      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.837      </score>
+<score>
+pos:0.163      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.633      </score>
+<score>
+pos:0.367      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.727      </score>
+<score>
+pos:0.273      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.167      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.231      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.098      </score>
+<score>
+neu:0.792      </score>
+<score>
+pos:0.109      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+About 140 music labels have joined in, including the "Big Four" -- EMI Group, Sony Music Entertainment, Warner Music Group and Universal Music.
+Google and music companies are giving Chinese Internet users free downloads.
+So far, Chinese music is topping the list of most popular downloads, including top artists Jolin Tsai and Liang Lin.
+That's the idea behind Google's latest move to allow users to download free music in China.
+Google offers about 350,000 free songs, but says more than 1 million will be available soon.
+</summary>
+<keywords>
+['labels', 'googles', 'songs', 'internet', 'chinese', 'free', 'offers', 'users', 'music', 'china', 'baidu', 'google', 'downloads']
+</keywords>
+<date>
+None
+</date>
+</text>

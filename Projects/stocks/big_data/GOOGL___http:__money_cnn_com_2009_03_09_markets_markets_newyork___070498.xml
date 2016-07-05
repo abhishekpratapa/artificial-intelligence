@@ -1,0 +1,439 @@
+<text>
+<url>
+http://money.cnn.com/2009/03/09/markets/markets_newyork/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.7783      </score>
+<score>
+neg:0.244      </score>
+<score>
+neu:0.7      </score>
+<score>
+pos:0.056      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5994      </score>
+<score>
+neg:0.197      </score>
+<score>
+neu:0.803      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5994      </score>
+<score>
+neg:0.205      </score>
+<score>
+neu:0.795      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5994      </score>
+<score>
+neg:0.214      </score>
+<score>
+neu:0.786      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.865      </score>
+<score>
+pos:0.135      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.805      </score>
+<score>
+pos:0.195      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2023      </score>
+<score>
+neg:0.055      </score>
+<score>
+neu:0.945      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.854      </score>
+<score>
+pos:0.146      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.119      </score>
+<score>
+neu:0.881      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.133      </score>
+<score>
+neu:0.867      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7615      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.736      </score>
+<score>
+pos:0.264      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.213      </score>
+<score>
+neu:0.787      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.898      </score>
+<score>
+pos:0.102      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1531      </score>
+<score>
+neg:0.066      </score>
+<score>
+neu:0.846      </score>
+<score>
+pos:0.088      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.075      </score>
+<score>
+neu:0.925      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.743      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.831      </score>
+<score>
+pos:0.169      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.645      </score>
+<score>
+pos:0.355      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.896      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.846      </score>
+<score>
+pos:0.154      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.048      </score>
+<score>
+neu:0.952      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.865      </score>
+<score>
+pos:0.135      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.061      </score>
+<score>
+neu:0.863      </score>
+<score>
+pos:0.077      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5719      </score>
+<score>
+neg:0.552      </score>
+<score>
+neu:0.448      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2263      </score>
+<score>
+neg:0.143      </score>
+<score>
+neu:0.633      </score>
+<score>
+pos:0.224      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.885      </score>
+<score>
+pos:0.115      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2263      </score>
+<score>
+neg:0.075      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.156      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.106      </score>
+<score>
+neu:0.798      </score>
+<score>
+pos:0.096      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.795      </score>
+<score>
+pos:0.205      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.145      </score>
+<score>
+neu:0.855      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5719      </score>
+<score>
+neg:0.163      </score>
+<score>
+neu:0.837      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+But other Dow components slumped, including DuPont (DD, Fortune 500), AT&T (T, Fortune 500), Procter & Gamble (PG, Fortune 500), Hewlett-Packard (HPQ, Fortune 500) and IBM (IBM, Fortune 500).
+Other movers: Some of the economically-sensitive stocks that have gotten pummeled lately bounced back, including Dow components Alcoa (AA, Fortune 500), Caterpillar (CAT, Fortune 500), General Motors (GM, Fortune 500) and General Electric (GE, Fortune 500).
+Banks: A variety of bank shares bounced back, with Bank of America (BAC, Fortune 500) leading the way, rising over 19%.
+Stocks mustered gains Friday - at the end of a rough week - with the Dow and S&P 500 bouncing off 12-year lows following a bleak February jobs report.
+NEW YORK (CNNMoney.com) -- Stocks tumbled Monday, with the Dow and S&P 500 ending at fresh 12-year lows, as Merck's $41 billion purchase of Schering-Plough failed to distract investors from worries about the economy.
+</summary>
+<keywords>
+['shares', 'end', 'bank', 'lost', 'sp', 'report', 'fortune', 'rose', 'markets', 'cnnmoneycom', 'market', 'dow', '500']
+</keywords>
+<date>
+2009-03-09 00:00:00
+</date>
+</text>

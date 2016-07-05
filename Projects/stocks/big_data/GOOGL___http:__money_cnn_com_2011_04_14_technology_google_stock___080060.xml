@@ -1,0 +1,449 @@
+<text>
+<url>
+http://money.cnn.com/2011/04/14/technology/google_stock/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.091      </score>
+<score>
+neu:0.817      </score>
+<score>
+pos:0.093      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.105      </score>
+<score>
+neu:0.895      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6428      </score>
+<score>
+neg:0.386      </score>
+<score>
+neu:0.386      </score>
+<score>
+pos:0.229      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1779      </score>
+<score>
+neg:0.151      </score>
+<score>
+neu:0.683      </score>
+<score>
+pos:0.166      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0378      </score>
+<score>
+neg:0.23      </score>
+<score>
+neu:0.484      </score>
+<score>
+pos:0.286      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7351      </score>
+<score>
+neg:0.292      </score>
+<score>
+neu:0.708      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.091      </score>
+<score>
+neu:0.809      </score>
+<score>
+pos:0.099      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.34      </score>
+<score>
+neg:0.146      </score>
+<score>
+neu:0.854      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.056      </score>
+<score>
+neu:0.864      </score>
+<score>
+pos:0.08      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.896      </score>
+<score>
+pos:0.104      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7269      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.816      </score>
+<score>
+pos:0.184      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.86      </score>
+<score>
+pos:0.14      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.939      </score>
+<score>
+pos:0.061      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1027      </score>
+<score>
+neg:0.186      </score>
+<score>
+neu:0.593      </score>
+<score>
+pos:0.22      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1603      </score>
+<score>
+neg:0.061      </score>
+<score>
+neu:0.939      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.167      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3919      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.819      </score>
+<score>
+pos:0.181      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.874      </score>
+<score>
+pos:0.126      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6124      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.773      </score>
+<score>
+pos:0.227      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.047      </score>
+<score>
+neu:0.81      </score>
+<score>
+pos:0.142      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.864      </score>
+<score>
+pos:0.136      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.935      </score>
+<score>
+pos:0.065      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5267      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.827      </score>
+<score>
+pos:0.173      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3559      </score>
+<score>
+neg:0.171      </score>
+<score>
+neu:0.829      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6124      </score>
+<score>
+neg:0.335      </score>
+<score>
+neu:0.549      </score>
+<score>
+pos:0.115      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.072      </score>
+<score>
+neu:0.928      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.902      </score>
+<score>
+pos:0.098      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.701      </score>
+<score>
+pos:0.299      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.224      </score>
+<score>
+neu:0.776      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.893      </score>
+<score>
+pos:0.107      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.843      </score>
+<score>
+pos:0.157      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.886      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.492      </score>
+<score>
+pos:0.508      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.097      </score>
+<score>
+neu:0.903      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2924      </score>
+<score>
+neg:0.154      </score>
+<score>
+neu:0.846      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+"Google is between a growth stock and a value stock; no-man's land for stock investors," said Aaron Kessler, analyst at ThinkEquity.
+Investors are falling out of love with GoogleNEW YORK (CNNMoney) -- Google's stock is exactly where it was in September 2007, and it has fallen 9% since Eric Schmidt announced in January that he'd be stepping down as CEO.
+Here's a closer look at what's bugging the search giant's shareholders:0:00 / 1:21 Investors eye Google earningsSlowing growth: Google's stock has stalled even as the company has continued to grow.
+Google's purchase of flight data search company ITA, for instance, raised antitrust concerns at the U.S. Justice Department.
+And well-received product enhancements aren't enough to reduce some investors' worries about Facebook's threat to Google's business.
+</summary>
+<keywords>
+['stock', 'investors', 'growth', 'analyst', 'love', 'revenue', 'googles', 'company', 'search', 'google', 'falling', 'thats']
+</keywords>
+<date>
+2011-04-14 00:00:00
+</date>
+</text>

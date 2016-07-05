@@ -1,0 +1,449 @@
+<text>
+<url>
+http://money.cnn.com/2011/03/08/technology/google_algorithm_change/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.1531      </score>
+<score>
+neg:0.115      </score>
+<score>
+neu:0.809      </score>
+<score>
+pos:0.076      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7615      </score>
+<score>
+neg:0.178      </score>
+<score>
+neu:0.78      </score>
+<score>
+pos:0.042      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5267      </score>
+<score>
+neg:0.327      </score>
+<score>
+neu:0.673      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.824      </score>
+<score>
+pos:0.176      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5423      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.824      </score>
+<score>
+pos:0.176      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4754      </score>
+<score>
+neg:0.18      </score>
+<score>
+neu:0.74      </score>
+<score>
+pos:0.08      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.137      </score>
+<score>
+neu:0.763      </score>
+<score>
+pos:0.1      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.071      </score>
+<score>
+neu:0.802      </score>
+<score>
+pos:0.127      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.624      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.797      </score>
+<score>
+pos:0.203      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6597      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.167      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.792      </score>
+<score>
+pos:0.208      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8271      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.617      </score>
+<score>
+pos:0.383      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.088      </score>
+<score>
+neu:0.843      </score>
+<score>
+pos:0.069      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2484      </score>
+<score>
+neg:0.077      </score>
+<score>
+neu:0.775      </score>
+<score>
+pos:0.148      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.126      </score>
+<score>
+neu:0.791      </score>
+<score>
+pos:0.084      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6908      </score>
+<score>
+neg:0.053      </score>
+<score>
+neu:0.717      </score>
+<score>
+pos:0.23      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.905      </score>
+<score>
+pos:0.095      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.25      </score>
+<score>
+neg:0.065      </score>
+<score>
+neu:0.894      </score>
+<score>
+pos:0.041      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.795      </score>
+<score>
+pos:0.205      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7579      </score>
+<score>
+neg:0.2      </score>
+<score>
+neu:0.8      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.113      </score>
+<score>
+neu:0.821      </score>
+<score>
+pos:0.067      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.915      </score>
+<score>
+pos:0.085      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4927      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.715      </score>
+<score>
+pos:0.285      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.128      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.34      </score>
+<score>
+neg:0.102      </score>
+<score>
+neu:0.847      </score>
+<score>
+pos:0.051      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.306      </score>
+<score>
+neu:0.694      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Google's code change shifts billions from losers to winnersNEW YORK (CNNMoney) -- Google's recent change to its search algorithm has dramatically shaken up the businesses of websites that moved up or down its search rankings.
+Its most prominent site, eHow.com, even grew its traffic after the algorithm change, though some others like AnswerBag.com and Trails.com dropped off.
+Correction: An earlier version of this story incorrectly reported that the Online Publishers Association expected $1 billion in advertising revenue to shift to its members following Google's algorithm change.
+Max Spankie, who operates customer review website My3cents.com, said his site lost a significant portion of its traffic and revenues overnight following Google's algorithm change.
+That means that positioning in Google's search results can be a life-or-death issue for a business.
+</summary>
+<keywords>
+['algorithm', 'shifts', 'site', 'search', 'billions', 'google', 'publishers', 'change', 'sites', 'traffic', 'ad', 'googles', 'content', 'spending']
+</keywords>
+<date>
+2011-03-08 00:00:00
+</date>
+</text>

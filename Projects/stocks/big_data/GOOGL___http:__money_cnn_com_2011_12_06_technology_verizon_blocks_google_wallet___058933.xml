@@ -1,0 +1,479 @@
+<text>
+<url>
+http://money.cnn.com/2011/12/06/technology/verizon_blocks_google_wallet/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.121      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.14      </score>
+<score>
+neu:0.753      </score>
+<score>
+pos:0.108      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4278      </score>
+<score>
+neg:0.138      </score>
+<score>
+neu:0.78      </score>
+<score>
+pos:0.081      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4767      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.846      </score>
+<score>
+pos:0.154      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6633      </score>
+<score>
+neg:0.425      </score>
+<score>
+neu:0.575      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6633      </score>
+<score>
+neg:0.228      </score>
+<score>
+neu:0.772      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4084      </score>
+<score>
+neg:0.158      </score>
+<score>
+neu:0.746      </score>
+<score>
+pos:0.096      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.909      </score>
+<score>
+pos:0.091      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0258      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.891      </score>
+<score>
+pos:0.109      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5574      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.581      </score>
+<score>
+pos:0.419      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.788      </score>
+<score>
+pos:0.212      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6344      </score>
+<score>
+neg:0.143      </score>
+<score>
+neu:0.857      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4927      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.834      </score>
+<score>
+pos:0.166      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3412      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.853      </score>
+<score>
+pos:0.147      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6705      </score>
+<score>
+neg:0.44      </score>
+<score>
+neu:0.56      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2263      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.872      </score>
+<score>
+pos:0.128      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.906      </score>
+<score>
+pos:0.094      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0173      </score>
+<score>
+neg:0.202      </score>
+<score>
+neu:0.547      </score>
+<score>
+pos:0.251      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.11      </score>
+<score>
+neu:0.816      </score>
+<score>
+pos:0.073      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.765      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.761      </score>
+<score>
+pos:0.239      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6705      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.853      </score>
+<score>
+pos:0.147      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5709      </score>
+<score>
+neg:0.173      </score>
+<score>
+neu:0.749      </score>
+<score>
+pos:0.078      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.227      </score>
+<score>
+neu:0.504      </score>
+<score>
+pos:0.269      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1779      </score>
+<score>
+neg:0.112      </score>
+<score>
+neu:0.826      </score>
+<score>
+pos:0.062      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3158      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.121      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.081      </score>
+<score>
+neu:0.741      </score>
+<score>
+pos:0.178      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.898      </score>
+<score>
+pos:0.102      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1906      </score>
+<score>
+neg:0.151      </score>
+<score>
+neu:0.766      </score>
+<score>
+pos:0.084      </score>
+</wrapper_score>
+</total_score>
+<summary>
+"In order to work as architected by Google, Google Wallet needs to be integrated into a new, secure and proprietary hardware element in our phones."
+Here's the catch: Sprint (S, Fortune 500), along with MasterCard (MA, Fortune 500) and Citigroup (C, Fortune 500), threw its support behind Google Wallet and partnered with Google.
+In September, Google Wallet went live and the Samsung Nexus S became Google's mobile payments guinea pig.
+Since Verizon said it is working to provide access to "an" open wallet, and not specifically Google's Wallet app, it's likely that Verizon is hoping to favor its own mobile payments option over Google's.
+0:00 / 3:00 Google's mobile wallet is hereIt's not a direct answer, but it's possible to read between the lines.
+</summary>
+<keywords>
+['payments', 'mobile', 'services', '500', 'google', 'fortune', 'blocks', 'googles', 'nfc', 'wallet', 'verizon']
+</keywords>
+<date>
+2011-12-06 00:00:00
+</date>
+</text>

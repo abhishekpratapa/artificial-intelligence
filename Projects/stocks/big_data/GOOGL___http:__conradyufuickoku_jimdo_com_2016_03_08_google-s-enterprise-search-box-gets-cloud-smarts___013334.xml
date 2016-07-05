@@ -1,0 +1,79 @@
+<text>
+<url>
+http://conradyufuickoku.jimdo.com/2016/03/08/google-s-enterprise-search-box-gets-cloud-smarts/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.971      </score>
+<score>
+pos:0.029      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.906      </score>
+<score>
+pos:0.094      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7351      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.932      </score>
+<score>
+pos:0.068      </score>
+</wrapper_score>
+</total_score>
+<summary>
+The updated Google Mini Box now searches Microsoft Sharepoint data as well.The only piece of hardware that Google GOOG sells is a rebranded Dell DELLyellow box (or Blue) called the Google Search Appliance.
+Google sells these to businesses that have content behind a firewall which cant be indexed by Googles normal spiders.
+Google also includes and updated people search featurewhich makes it easy to find experts and contact coworkers who are related to a search query, right from the search results page.
+For example, a search for field marketing would return a list of field marketing team members alongside other relevant content.
+These businesses want to privatelycatalogue Intranet and back-office data using Googles integrated search features without sending data to Google.Today Google announced that these boxes will integrate company data from Cloud sources including Google Docs and E-mail, Twitter, company websites, blogs and other industry sources.
+</summary>
+<keywords>
+['data', 'cloud', 'sells', 'enterprise', 'sources', 'box', 'results', 'content', 'sharepoint', 'search', 'updated', 'gets', 'smarts', 'googles', 'google']
+</keywords>
+<date>
+2016-03-08 00:00:00
+</date>
+</text>

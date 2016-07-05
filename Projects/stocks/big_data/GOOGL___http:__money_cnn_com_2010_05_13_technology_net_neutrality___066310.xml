@@ -1,0 +1,449 @@
+<text>
+<url>
+http://money.cnn.com/2010/05/13/technology/net_neutrality/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5093      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.732      </score>
+<score>
+pos:0.268      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7184      </score>
+<score>
+neg:0.25      </score>
+<score>
+neu:0.75      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2023      </score>
+<score>
+neg:0.098      </score>
+<score>
+neu:0.847      </score>
+<score>
+pos:0.056      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.802      </score>
+<score>
+pos:0.198      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.101      </score>
+<score>
+neu:0.775      </score>
+<score>
+pos:0.124      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.25      </score>
+<score>
+neg:0.069      </score>
+<score>
+neu:0.847      </score>
+<score>
+pos:0.083      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.794      </score>
+<score>
+pos:0.206      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7264      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.885      </score>
+<score>
+pos:0.115      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.193      </score>
+<score>
+neu:0.643      </score>
+<score>
+pos:0.164      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6231      </score>
+<score>
+neg:0.164      </score>
+<score>
+neu:0.836      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.951      </score>
+<score>
+pos:0.049      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.891      </score>
+<score>
+pos:0.109      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.25      </score>
+<score>
+neg:0.1      </score>
+<score>
+neu:0.9      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.828      </score>
+<score>
+pos:0.172      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1779      </score>
+<score>
+neg:0.175      </score>
+<score>
+neu:0.825      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.196      </score>
+<score>
+neu:0.804      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.167      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5574      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.867      </score>
+<score>
+pos:0.133      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.141      </score>
+<score>
+neu:0.859      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.127      </score>
+<score>
+neu:0.873      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5719      </score>
+<score>
+neg:0.19      </score>
+<score>
+neu:0.734      </score>
+<score>
+pos:0.076      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3891      </score>
+<score>
+neg:0.07      </score>
+<score>
+neu:0.755      </score>
+<score>
+pos:0.175      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6486      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.826      </score>
+<score>
+pos:0.174      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.055      </score>
+<score>
+neu:0.823      </score>
+<score>
+pos:0.122      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7003      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.805      </score>
+<score>
+pos:0.195      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2144      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.89      </score>
+<score>
+pos:0.11      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Under the mandate, dubbed "Net neutrality," the FCC would require Internet providers, like phone and cable companies, to treat all Web content equally.
+On the other side, the Comcasts (CMCSA, Fortune 500), AT&Ts (T, Fortune 500), Verizons (VZ, Fortune 500) and Time Warner Cables (TWC, Fortune 500) of the world say they have been able to provide very good and increasingly better Internet access to customers without any regulation from the FCC.
+That's just some of the rhetoric and doomsday scenarios flying back and forth over the contentious subject of "Net neutrality."
+Armageddon, brought to you by the FCCNEW YORK (CNNMoney.com) -- Your Internet bill will go up $50 a month!
+They say Net neutrality would slow down their Internet service and that the costs would be too prohibitive.
+</summary>
+<keywords>
+['internet', 'access', 'brought', '500', 'fcc', 'providers', 'companies', 'fortune', 'net', 'neutrality', 'armageddon', 'broadband', 'service']
+</keywords>
+<date>
+2010-05-13 00:00:00
+</date>
+</text>

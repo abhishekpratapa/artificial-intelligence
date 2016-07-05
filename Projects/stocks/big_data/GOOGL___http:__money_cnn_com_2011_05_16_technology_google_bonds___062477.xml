@@ -1,0 +1,119 @@
+<text>
+<url>
+http://money.cnn.com/2011/05/16/technology/google_bonds/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.937      </score>
+<score>
+pos:0.062      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6597      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.69      </score>
+<score>
+pos:0.31      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6124      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.84      </score>
+<score>
+pos:0.16      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7845      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.692      </score>
+<score>
+pos:0.308      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.82      </score>
+<score>
+pos:0.18      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.04      </score>
+<score>
+neu:0.881      </score>
+<score>
+pos:0.08      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8481      </score>
+<score>
+neg:0.055      </score>
+<score>
+neu:0.651      </score>
+<score>
+pos:0.294      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2023      </score>
+<score>
+neg:0.116      </score>
+<score>
+neu:0.804      </score>
+<score>
+pos:0.08      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.098      </score>
+<score>
+neu:0.902      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Citigroup (C, Fortune 500), Goldman Sachs (GS, Fortune 500) and JPMorgan Chase (JPM, Fortune 500) are acting as lead managers for the debt offering.
+Google (GOOG, Fortune 500) plans to raise $3 billion by selling $1 billion each of 3, 5 and 10-year notes.
+NEW YORK (CNNMoney) -- Google plans to raise cash by selling bonds for the first time in the company's history, the Internet search giant said Monday in a filing with the Securities and Exchange Commission.
+Google joins the dozens of other companies that have recently entered the fixed income market to take advantage of both low interest rates and strong investor interest for corporate bonds.
+Google currently sits on $36 billion in cash and short-term securities.
+</summary>
+<keywords>
+['sell', 'bonds', 'billion', 'interest', 'google', 'search', 'fortune', 'rating', 'cash', 'plans', '500', 'securities', 'selling']
+</keywords>
+<date>
+2011-05-16 00:00:00
+</date>
+</text>

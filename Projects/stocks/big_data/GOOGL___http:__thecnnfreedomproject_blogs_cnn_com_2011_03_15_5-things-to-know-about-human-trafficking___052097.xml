@@ -1,0 +1,439 @@
+<text>
+<url>
+http://thecnnfreedomproject.blogs.cnn.com/2011/03/15/5-things-to-know-about-human-trafficking/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.819      </score>
+<score>
+pos:0.181      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5859      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.789      </score>
+<score>
+pos:0.211      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3373      </score>
+<score>
+neg:0.139      </score>
+<score>
+neu:0.756      </score>
+<score>
+pos:0.105      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.698      </score>
+<score>
+pos:0.302      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2716      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.851      </score>
+<score>
+pos:0.149      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7003      </score>
+<score>
+neg:0.615      </score>
+<score>
+neu:0.385      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7003      </score>
+<score>
+neg:0.545      </score>
+<score>
+neu:0.455      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.195      </score>
+<score>
+neu:0.805      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.262      </score>
+<score>
+neu:0.601      </score>
+<score>
+pos:0.137      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7327      </score>
+<score>
+neg:0.359      </score>
+<score>
+neu:0.641      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6908      </score>
+<score>
+neg:0.275      </score>
+<score>
+neu:0.725      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.898      </score>
+<score>
+pos:0.102      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4215      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.851      </score>
+<score>
+pos:0.149      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.172      </score>
+<score>
+neu:0.828      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.136      </score>
+<score>
+neu:0.864      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4019      </score>
+<score>
+neg:0.172      </score>
+<score>
+neu:0.828      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.103      </score>
+<score>
+neu:0.897      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2023      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.878      </score>
+<score>
+pos:0.122      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3612      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.706      </score>
+<score>
+pos:0.294      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.412      </score>
+<score>
+neu:0.588      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5574      </score>
+<score>
+neg:0.173      </score>
+<score>
+neu:0.827      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.91      </score>
+<score>
+neg:0.29      </score>
+<score>
+neu:0.665      </score>
+<score>
+pos:0.045      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3182      </score>
+<score>
+neg:0.133      </score>
+<score>
+neu:0.867      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.6486      </score>
+<score>
+neg:0.164      </score>
+<score>
+neu:0.836      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.093      </score>
+<score>
+neu:0.813      </score>
+<score>
+pos:0.093      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5423      </score>
+<score>
+neg:0.171      </score>
+<score>
+neu:0.747      </score>
+<score>
+pos:0.082      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7906      </score>
+<score>
+neg:0.226      </score>
+<score>
+neu:0.774      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.239      </score>
+<score>
+neu:0.761      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.873      </score>
+<score>
+pos:0.127      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8176      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.716      </score>
+<score>
+pos:0.284      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.191      </score>
+<score>
+neu:0.809      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.25      </score>
+<score>
+neg:0.13      </score>
+<score>
+neu:0.791      </score>
+<score>
+pos:0.079      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.21      </score>
+<score>
+neu:0.484      </score>
+<score>
+pos:0.306      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Most of the human trafficking victims in the world are female and under 18, but men and older adults can be trafficking victims too.
+Like historical slavery, human trafficking is a business that generates billions of dollars a year.
+Human trafficking isn't just in your town - it's in your home, since human trafficking victims are forced to make many of the products we use everyday, according to ProductsofSlavery.org.
+Human trafficking is slavery.
+Human trafficking is modern-day slavery.
+</summary>
+<keywords>
+['towns', 'trafficking', 'slavery', 'freedom', 'world', 'products', 'cities', 'human', 'cnn', 'kloer', 'fight', 'know', 'modernday', 'ending', 'victims', 'project', 'things']
+</keywords>
+<date>
+2011-03-15 00:00:00
+</date>
+</text>

@@ -1,0 +1,549 @@
+<text>
+<url>
+http://money.cnn.com/2009/11/18/markets/thebuzz/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.951      </score>
+<score>
+pos:0.049      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.755      </score>
+<score>
+pos:0.245      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4939      </score>
+<score>
+neg:0.217      </score>
+<score>
+neu:0.633      </score>
+<score>
+pos:0.151      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.128      </score>
+<score>
+neg:0.158      </score>
+<score>
+neu:0.842      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.088      </score>
+<score>
+neu:0.912      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.0      </score>
+<score>
+pos:1.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.88      </score>
+<score>
+pos:0.12      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.968      </score>
+<score>
+pos:0.032      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2263      </score>
+<score>
+neg:0.065      </score>
+<score>
+neu:0.829      </score>
+<score>
+pos:0.106      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7506      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.775      </score>
+<score>
+pos:0.225      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5423      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.877      </score>
+<score>
+pos:0.123      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3566      </score>
+<score>
+neg:0.064      </score>
+<score>
+neu:0.936      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5448      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.46      </score>
+<score>
+pos:0.54      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.905      </score>
+<score>
+pos:0.095      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7184      </score>
+<score>
+neg:0.075      </score>
+<score>
+neu:0.654      </score>
+<score>
+pos:0.271      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.101      </score>
+<score>
+neg:0.106      </score>
+<score>
+neu:0.825      </score>
+<score>
+pos:0.07      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.123      </score>
+<score>
+neu:0.877      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.077      </score>
+<score>
+neu:0.743      </score>
+<score>
+pos:0.18      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.86      </score>
+<score>
+pos:0.14      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.035      </score>
+<score>
+neu:0.965      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.927      </score>
+<score>
+pos:0.073      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4767      </score>
+<score>
+neg:0.383      </score>
+<score>
+neu:0.617      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4404      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.854      </score>
+<score>
+pos:0.146      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.098      </score>
+<score>
+neu:0.902      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.654      </score>
+<score>
+pos:0.346      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7003      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.81      </score>
+<score>
+pos:0.19      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7632      </score>
+<score>
+neg:0.076      </score>
+<score>
+neu:0.709      </score>
+<score>
+pos:0.214      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.197      </score>
+<score>
+neu:0.511      </score>
+<score>
+pos:0.292      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4588      </score>
+<score>
+neg:0.156      </score>
+<score>
+neu:0.767      </score>
+<score>
+pos:0.077      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4585      </score>
+<score>
+neg:0.428      </score>
+<score>
+neu:0.572      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0857      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.943      </score>
+<score>
+pos:0.057      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3182      </score>
+<score>
+neg:0.045      </score>
+<score>
+neu:0.868      </score>
+<score>
+pos:0.087      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2732      </score>
+<score>
+neg:0.344      </score>
+<score>
+neu:0.656      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.8004      </score>
+<score>
+neg:0.671      </score>
+<score>
+neu:0.329      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.624      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.841      </score>
+<score>
+pos:0.159      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2975      </score>
+<score>
+neg:0.136      </score>
+<score>
+neu:0.785      </score>
+<score>
+pos:0.078      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5716      </score>
+<score>
+neg:0.18      </score>
+<score>
+neu:0.56      </score>
+<score>
+pos:0.26      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7374      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.859      </score>
+<score>
+pos:0.141      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0516      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.902      </score>
+<score>
+pos:0.098      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.296      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.577      </score>
+<score>
+pos:0.423      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Talkback: Do you believe the apology of Goldman Sachs CEO Lloyd Blankfein?
+NEW YORK (CNNMoney.com) -- The public relations gurus who are advising Goldman Sachs Chief Executive Officer Lloyd Blankfein might want to give him some new advice.
+There's a big difference between Goldman and Bank of America (BAC, Fortune 500) and Citigroup (C, Fortune 500), which still don't seem to be healthy enough to return bailout funds.
+Last month, Blankfein told Fortune managing editor Andy Serwer that the company contributes to the nation's growth.
+It's actually an encouraging sign that banks like Goldman, JPMorgan Chase (JPM, Fortune 500), Wells Fargo (WFC, Fortune 500) and U.S. Bancorp (USB, Fortune 500) -- to name a few -- are this strong only a few months after many thought the financial system was doomed.
+</summary>
+<keywords>
+['really', 'money', 'goldman', 'shut', 'fortune', 'lloyd', 'billion', 'blankfein', 'goldmans', '500', 'sachs']
+</keywords>
+<date>
+2009-11-18 00:00:00
+</date>
+</text>

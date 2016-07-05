@@ -1,0 +1,349 @@
+<text>
+<url>
+http://www.cnn.com/2010/TECH/01/13/google.china.exit/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.6369      </score>
+<score>
+neg:0.113      </score>
+<score>
+neu:0.887      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4951      </score>
+<score>
+neg:0.131      </score>
+<score>
+neu:0.869      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.93      </score>
+<score>
+pos:0.07      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.167      </score>
+<score>
+neu:0.833      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.116      </score>
+<score>
+neu:0.884      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.121      </score>
+<score>
+neu:0.879      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.915      </score>
+<score>
+pos:0.085      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0516      </score>
+<score>
+neg:0.079      </score>
+<score>
+neu:0.921      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.34      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.556      </score>
+<score>
+pos:0.444      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7845      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.743      </score>
+<score>
+pos:0.257      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3818      </score>
+<score>
+neg:0.096      </score>
+<score>
+neu:0.861      </score>
+<score>
+pos:0.043      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5106      </score>
+<score>
+neg:0.231      </score>
+<score>
+neu:0.769      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5719      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.85      </score>
+<score>
+pos:0.15      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2528      </score>
+<score>
+neg:0.163      </score>
+<score>
+neu:0.731      </score>
+<score>
+pos:0.106      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2057      </score>
+<score>
+neg:0.131      </score>
+<score>
+neu:0.869      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7783      </score>
+<score>
+neg:0.164      </score>
+<score>
+neu:0.796      </score>
+<score>
+pos:0.04      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1914      </score>
+<score>
+neg:0.083      </score>
+<score>
+neu:0.784      </score>
+<score>
+pos:0.134      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2755      </score>
+<score>
+neg:0.105      </score>
+<score>
+neu:0.895      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1779      </score>
+<score>
+neg:0.088      </score>
+<score>
+neu:0.795      </score>
+<score>
+pos:0.117      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.872      </score>
+<score>
+neg:0.046      </score>
+<score>
+neu:0.713      </score>
+<score>
+pos:0.242      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6249      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.837      </score>
+<score>
+pos:0.163      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2263      </score>
+<score>
+neg:0.121      </score>
+<score>
+neu:0.804      </score>
+<score>
+pos:0.075      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.1531      </score>
+<score>
+neg:0.116      </score>
+<score>
+neu:0.75      </score>
+<score>
+pos:0.134      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.3818      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.894      </score>
+<score>
+pos:0.106      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0516      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.946      </score>
+<score>
+pos:0.054      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4201      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.826      </score>
+<score>
+pos:0.174      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Still, Google is dwarfed by Baidu.com, the leading Chinese search engine which dominates the majority of the search market in mainland China.
+According to a September 2009 survey by state-run China Internet Network Information Center, 13 percent of Chinese Internet users prefer Google whereas Baidu was the first choice for 77 percent.
+Google, which launched its China-based search engine in 2006, has struggled for business in China since its inception.
+Several Google users and fans gathered in front of the company's China headquarters in northwest Beijing to express support for Internet freedom.
+Jeremy Goldkorn, China Internet analyst and founder of Danwei.org, said: "Google has been subject to an inordinate amount of harassment in China over the past year, ranging from blocking and interruption of services like Google Documents and G-mail that are not hosted in China, to state-owned broadcaster CCTV accusing [Google] of being propagators of pornography."
+</summary>
+<keywords>
+['internet', 'googles', 'selfcensorship', 'company', 'users', 'relaxes', 'search', 'chinese', 'googlecn', 'google', 'china', 'engine']
+</keywords>
+<date>
+None
+</date>
+</text>

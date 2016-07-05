@@ -1,0 +1,319 @@
+<text>
+<url>
+http://money.cnn.com/2010/03/12/news/companies/lehman_examiner/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:-0.6705      </score>
+<score>
+neg:0.243      </score>
+<score>
+neu:0.757      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.9393      </score>
+<score>
+neg:0.36      </score>
+<score>
+neu:0.64      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.836      </score>
+<score>
+neg:0.235      </score>
+<score>
+neu:0.765      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7351      </score>
+<score>
+neg:0.171      </score>
+<score>
+neu:0.829      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.9022      </score>
+<score>
+neg:0.29      </score>
+<score>
+neu:0.595      </score>
+<score>
+pos:0.116      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.34      </score>
+<score>
+neg:0.197      </score>
+<score>
+neu:0.664      </score>
+<score>
+pos:0.14      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3804      </score>
+<score>
+neg:0.156      </score>
+<score>
+neu:0.844      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.7003      </score>
+<score>
+neg:0.279      </score>
+<score>
+neu:0.721      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5023      </score>
+<score>
+neg:0.2      </score>
+<score>
+neu:0.8      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5574      </score>
+<score>
+neg:0.195      </score>
+<score>
+neu:0.805      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.2023      </score>
+<score>
+neg:0.254      </score>
+<score>
+neu:0.556      </score>
+<score>
+pos:0.19      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1531      </score>
+<score>
+neg:0.218      </score>
+<score>
+neu:0.636      </score>
+<score>
+pos:0.145      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.175      </score>
+<score>
+neu:0.736      </score>
+<score>
+pos:0.089      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4215      </score>
+<score>
+neg:0.122      </score>
+<score>
+neu:0.798      </score>
+<score>
+pos:0.08      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5667      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.848      </score>
+<score>
+pos:0.152      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.059      </score>
+<score>
+neu:0.941      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.34      </score>
+<score>
+neg:0.135      </score>
+<score>
+neu:0.806      </score>
+<score>
+pos:0.058      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.0857      </score>
+<score>
+neg:0.044      </score>
+<score>
+neu:0.956      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.296      </score>
+<score>
+neg:0.073      </score>
+<score>
+neu:0.927      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.4404      </score>
+<score>
+neg:0.132      </score>
+<score>
+neu:0.868      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.5994      </score>
+<score>
+neg:0.154      </score>
+<score>
+neu:0.846      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.93      </score>
+<score>
+pos:0.07      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5859      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.839      </score>
+<score>
+pos:0.161      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+</total_score>
+<summary>
+Valukas blamed Lehman executives for exacerbating the firm's problems, resulting in financial fallout to creditors and shareholders.
+The report is highly critical of Lehman's executives, who "should have done more, done better."
+Fuld's lawyer, Patricia Hynes of Allen & Overy LLP, said that her client was not aware of his company's use of Repo 105.
+Repo 105In particular, the examiner's report criticizes Lehman's failure to disclose its use of an accounting device called "Repo 105" to make its books look better.
+The report said former Chief Executive Richard Fuld was "at least grossly negligent in causing Lehman to file misleading periodic reports."
+</summary>
+<keywords>
+['lehman', 'financial', 'chief', '105', 'cause', 'repo', 'sheet', 'report', 'executives', 'fuld', 'failure', 'lehmans']
+</keywords>
+<date>
+2010-03-12 00:00:00
+</date>
+</text>

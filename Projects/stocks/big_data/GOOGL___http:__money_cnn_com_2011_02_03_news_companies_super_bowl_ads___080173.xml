@@ -1,0 +1,329 @@
+<text>
+<url>
+http://money.cnn.com/2011/02/03/news/companies/super_bowl_ads/</url>
+<total_score>
+<wrapper_score>
+<score>
+compound:0.7003      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.508      </score>
+<score>
+pos:0.492      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.843      </score>
+<score>
+pos:0.157      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7264      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.663      </score>
+<score>
+pos:0.337      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.836      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.729      </score>
+<score>
+pos:0.271      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4588      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.824      </score>
+<score>
+pos:0.176      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.837      </score>
+<score>
+pos:0.163      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0772      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.874      </score>
+<score>
+pos:0.126      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5106      </score>
+<score>
+neg:0.046      </score>
+<score>
+neu:0.841      </score>
+<score>
+pos:0.113      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.128      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.824      </score>
+<score>
+pos:0.176      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.2732      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.928      </score>
+<score>
+pos:0.072      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.6369      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.714      </score>
+<score>
+pos:0.286      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.4019      </score>
+<score>
+neg:0.055      </score>
+<score>
+neu:0.848      </score>
+<score>
+pos:0.097      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.9038      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.538      </score>
+<score>
+pos:0.462      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.3612      </score>
+<score>
+neg:0.385      </score>
+<score>
+neu:0.615      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5423      </score>
+<score>
+neg:0.031      </score>
+<score>
+neu:0.883      </score>
+<score>
+pos:0.086      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1027      </score>
+<score>
+neg:0.037      </score>
+<score>
+neu:0.963      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:1.0      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8773      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.823      </score>
+<score>
+pos:0.177      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.913      </score>
+<score>
+pos:0.087      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.0258      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.901      </score>
+<score>
+pos:0.099      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.5994      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.9      </score>
+<score>
+pos:0.1      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.7783      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.81      </score>
+<score>
+pos:0.19      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8481      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.685      </score>
+<score>
+pos:0.315      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:-0.1901      </score>
+<score>
+neg:0.164      </score>
+<score>
+neu:0.836      </score>
+<score>
+pos:0.0      </score>
+</wrapper_score>
+<wrapper_score>
+<score>
+compound:0.8402      </score>
+<score>
+neg:0.0      </score>
+<score>
+neu:0.615      </score>
+<score>
+pos:0.385      </score>
+</wrapper_score>
+</total_score>
+<summary>
+0:00 / 2:51 Super Bowl 2011 ads sneak peekSo how effective are these Super Bowl ads?
+NEW YORK (CNNMoney) -- Is a $3 million, 30-second Super Bowl ad really worth it?
+Super Bowl ad: Is $3 million worth it?
+Coca-Cola is forking over big bucks to run two 60-second spots during this year's Super Bowl, including an animated ad called "Siege."
+A Super Bowl spot's payoff isn't just in the number of people watching the game live.
+</summary>
+<keywords>
+['ad', 'sell', 'viewers', 'ads', 'pricey', 'worth', 'bowl', 'spots', 'godaddy', 'game', 'million', 'super']
+</keywords>
+<date>
+2011-02-03 00:00:00
+</date>
+</text>
